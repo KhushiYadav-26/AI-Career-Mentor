@@ -1,0 +1,160 @@
+{
+  "aliases": {
+    "react.js": "React",
+    "reactjs": "React",
+    "react js": "React",
+
+    "node": "Node.js",
+    "nodejs": "Node.js",
+    "node js": "Node.js",
+
+    "express": "Express",
+    "express.js": "Express",
+    "expressjs": "Express",
+
+    "machine-learning": "Machine Learning",
+    "machine learning": "Machine Learning",
+    "ml": "Machine Learning",
+
+    "deep-learning": "Deep Learning",
+    "deep learning": "Deep Learning",
+    "dl": "Deep Learning",
+
+    "rest api": "REST APIs",
+    "rest apis": "REST APIs",
+    "rest-api": "REST APIs",
+    "rest-apis": "REST APIs",
+    "restful api": "REST APIs",
+    "restful apis": "REST APIs",
+
+    "data structures and algorithms": "Data Structures",
+    "data structures & algorithms": "Data Structures",
+    "data structures": "Data Structures",
+    "dsa": "Data Structures",
+
+    "artificial intelligence": "Artificial Intelligence",
+    "ai": "Artificial Intelligence",
+
+    "javascript": "JavaScript",
+    "java script": "JavaScript",
+    "js": "JavaScript",
+
+    "typescript": "TypeScript",
+    "type script": "TypeScript",
+    "ts": "TypeScript",
+
+    "python3": "Python",
+    "python 3": "Python",
+
+    "sql": "SQL",
+    "structured query language": "SQL",
+
+    "postgres": "PostgreSQL",
+    "postgresql": "PostgreSQL",
+    "postgre sql": "PostgreSQL",
+
+    "mongo": "MongoDB",
+    "mongodb": "MongoDB",
+    "mongo db": "MongoDB",
+
+    "powerbi": "Power BI",
+    "power bi": "Power BI",
+
+    "tensorflow": "TensorFlow",
+    "tf": "TensorFlow",
+
+    "pytorch": "PyTorch",
+    "torch": "PyTorch",
+
+    "scikit learn": "scikit-learn",
+    "scikit-learn": "scikit-learn",
+    "sklearn": "scikit-learn",
+
+    "numpy": "NumPy",
+    "num py": "NumPy",
+
+    "pandas": "Pandas",
+
+    "computer vision": "Computer Vision",
+    "cv": "Computer Vision",
+
+    "natural language processing": "NLP",
+    "nlp": "NLP",
+
+    "large language model": "LLM",
+    "large language models": "LLM",
+    "llm": "LLM",
+
+    "generative ai": "Generative AI",
+    "gen ai": "Generative AI",
+    "genai": "Generative AI",
+
+    "prompt engineering": "Prompt Engineering",
+    "prompting": "Prompt Engineering",
+
+    "data visualization": "Data Visualization",
+    "data viz": "Data Visualization",
+
+    "git hub": "GitHub",
+    "github": "GitHub",
+
+    "docker": "Docker",
+    "docker container": "Docker",
+
+    "k8s": "Kubernetes",
+    "kubernetes": "Kubernetes",
+
+    "aws": "AWS",
+    "amazon web services": "AWS",
+
+    "azure": "Microsoft Azure",
+    "microsoft azure": "Microsoft Azure",
+
+    "html5": "HTML",
+    "html": "HTML",
+
+    "css3": "CSS",
+    "css": "CSS",
+
+    "ui ux": "UI/UX",
+    "ui/ux": "UI/UX",
+    "ui ux design": "UI/UX",
+
+    "figma": "Figma",
+
+    "rest": "REST APIs",
+    "api": "REST APIs",
+    "apis": "REST APIs",
+
+    "authentication": "Authentication",
+    "auth": "Authentication",
+
+    "database": "Databases",
+    "databases": "Databases",
+    "db": "Databases",
+
+    "statistics": "Statistics",
+    "statistical analysis": "Statistics",
+
+    "data analysis": "Data Analysis",
+    "data analytics": "Data Analytics",
+
+    "etl": "ETL",
+    "extract transform load": "ETL",
+
+    "cloud computing": "Cloud",
+    "cloud": "Cloud",
+
+    "cyber security": "Cybersecurity",
+    "cybersecurity": "Cybersecurity",
+
+    "c++": "C++",
+    "cpp": "C++",
+
+    "c sharp": "C#",
+    "c#": "C#",
+
+    "object oriented programming": "OOP",
+    "oop": "OOP"
+  }
+}

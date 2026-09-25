@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css');
+html, body, [class*="css"] { font-family: Inter, Arial, sans-serif; color: #17171C; }
+.stApp { background: #F7F7F9; }
+.auth-top-space { height: 3vh; }
+.auth-top-space + div[data-testid="stVerticalBlockBorderWrapper"] { max-width: 1120px; margin: 0 auto; border: 1px solid #E3E8FF; border-radius: 18px; box-shadow: 0 18px 50px rgba(75, 83, 182, .12); overflow: hidden; background: rgba(255,255,255,.95); }
+.auth-illustration { min-height: 570px; padding: 1.6rem 1rem .8rem; background: linear-gradient(135deg, #ffffff, #F4F6FF); position: relative; overflow: hidden; }
+.auth-brand { color:#122563; display:flex; align-items:center; gap:.75rem; font-size:1.16rem; }
+.auth-brand small { display:block; color:#788ac6; font-size:.72rem; font-weight:500; margin-top:.18rem; }
+.brand-mark { color:#5B4DE6; font-size:2.4rem; line-height:1; }
+.journey-scene { height:355px; margin-top:1rem; position:relative; overflow:hidden; border-radius:50% 50% 42% 42%; background: radial-gradient(circle at 14% 24%, #E5E9FF 0 10%, transparent 10.5%), linear-gradient(160deg, #FFF 0%, #E9F2FF 70%, #DDE2FF 100%); }
+.journey-path { position:absolute; width:73%; height:340px; left:26%; top:50px; border:21px solid #aeb6ff; border-left-color:#85DDF6; border-bottom-color:#c7baff; border-radius:52% 0 0 53%; transform:rotate(-29deg); opacity:.78; }
+.mountain { position:absolute; bottom:70px; width:0; height:0; border-left:95px solid transparent; border-right:95px solid transparent; border-bottom:180px solid #9DC6FF; filter: drop-shadow(13px 7px 0 #c8d9ff); }
+.mountain.one { left:34%; } .mountain.two { left:58%; bottom:68px; transform:scale(.65); border-bottom-color:#776EE9; }
+.student { position:absolute; left:15%; bottom:25px; width:180px; height:185px; }
+.student .hair { position:absolute; width:118px; height:125px; left:23px; top:8px; border-radius:52% 48% 42% 44%; background:#18224D; }.student .face { position:absolute; width:66px; height:75px; left:51px; top:35px; border-radius:45%; background:#F7BD9E; }.student .body { position:absolute; bottom:0; left:15px; width:145px; height:110px; border-radius:52% 52% 15% 15%; background:#8175EC; }.student .laptop { position:absolute; bottom:10px; left:75px; width:115px; height:70px; border-radius:6px; background:#475783; color:#dce4ff; display:grid; place-items:center; font-size:24px; transform:skew(-6deg); }
+.scene-badge { position:absolute; z-index:2; min-width:72px; padding:8px 10px; border-radius:22px; background:#fff; color:#5B4DE6; box-shadow:0 5px 16px rgba(66,88,185,.14); text-align:center; font-weight:700; }.scene-badge small { display:block; font-size:.65rem; color:#4a5b9d; font-weight:600; }.badge-learn { top:80px; left:14%; }.badge-grow { top:145px; right:12%; }.badge-goal { top:220px; left:8%; }
+.auth-mantra { margin:1.15rem 1.8rem; color:#6978F3; font-size:1.1rem; font-style:italic; line-height:1.5; transform:rotate(-5deg); }
+.auth-form-heading { margin-top:4.5rem; max-width:390px; }.auth-form-heading h1 { color:#112664; font-size:2rem; margin:.5rem 0 .6rem; }.auth-form-heading h1 span { color:#5B4DE6; }.auth-form-heading p { color:#6677AF; line-height:1.55; }.auth-form-heading .eyebrow { color:#6576F3; }
+.auth-or { display:flex; align-items:center; gap:12px; color:#6273ad; font-size:.72rem; justify-content:center; margin:1rem 0; }.auth-or:before,.auth-or:after { content:''; height:1px; background:#D9E0F9; flex:1; }
+.eyebrow { letter-spacing:.15em; font-size:.72rem; font-weight:700; }
+[data-testid="stSidebar"] { background: #17171C; }
+[data-testid="stSidebar"] * { color: #F7F7F9; }
+[data-testid="stSidebar"] .stRadio label { border-radius: 9px; padding: 7px; transition: background .18s ease; }
+[data-testid="stSidebar"] .stRadio label:hover { background: rgba(255,255,255,.10); }
+div[data-testid="stMetric"] { background: #fff; border: 1px solid #E7E7ED; border-radius: 14px; padding: 18px; box-shadow: 0 4px 14px rgba(23,23,28,.04); }
+div[data-testid="stVerticalBlockBorderWrapper"] { background: #fff; border-radius: 14px; transition: transform .18s ease, box-shadow .18s ease; }
+div[data-testid="stVerticalBlockBorderWrapper"]:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(23,23,28,.07); }
+.stButton>button, .stDownloadButton>button { background: #5B4DE6; color: white; border: 0; border-radius: 9px; font-weight: 600; transition: background .18s ease, transform .18s ease; }
+.stButton>button:hover, .stDownloadButton>button:hover { background: #4C3FD1; color: white; transform: translateY(-1px); }
+.stProgress > div > div { background-color: #5B4DE6; }
+h1, h2, h3 { letter-spacing: -.025em; }
+div[data-testid="stTabs"] button { color:#6576A9; font-weight:600; } div[data-testid="stTabs"] button[aria-selected="true"] { color:#5346E2; }
+div[data-testid="stTextInput"] input { border-color:#D5DDF8; border-radius:9px; min-height:48px; } div[data-testid="stTextInput"] label { color:#50629b; font-size:.78rem; }
+@media (max-width: 700px) { .block-container { padding: 1.1rem .8rem 3rem; } div[data-testid="stMetric"] { padding: 12px; } .auth-illustration { min-height:390px; }.journey-scene { height:240px; }.auth-form-heading { margin-top:1rem; }.auth-top-space { height:0; } }
+
+/* Product dashboard visual system */
+.stApp { background:#BDB2FF; background-image:radial-gradient(circle at 88% 8%,rgba(255,255,255,.48),transparent 22%),radial-gradient(circle at 12% 92%,rgba(255,255,255,.35),transparent 26%); }
+[data-testid="stSidebar"] { background:linear-gradient(180deg,#101B39,#071124); border-right:1px solid rgba(255,255,255,.06); }
+[data-testid="stSidebar"] .stRadio label { border-radius:10px; padding:10px 12px; margin:2px 0; transition:background .18s ease,transform .18s ease; }
+[data-testid="stSidebar"] .stRadio label:hover { background:rgba(125,99,255,.25); transform:translateX(2px); }
+[data-testid="stSidebar"] .stRadio label:has(input:checked) { background:linear-gradient(100deg,#5340E9,#7359F4); box-shadow:0 7px 16px rgba(49,36,173,.34); }
+.sidebar-brand { display:flex;align-items:center;gap:11px;padding:12px 4px 27px; }.sidebar-brand b{font-size:1.08rem;display:block}.sidebar-brand small{font-size:.65rem;color:#a8b5d9;display:block;margin-top:3px}.sidebar-orb{width:40px;height:40px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(145deg,#BDB2FF,#5E48EF);box-shadow:0 6px 17px rgba(120,96,255,.35)}
+div[data-testid="stMetric"] { background:rgba(255,255,255,.96);border:1px solid #DCE5FF;box-shadow:0 7px 18px rgba(65,80,160,.08); }
+div[data-testid="stVerticalBlockBorderWrapper"]:hover { box-shadow:0 10px 24px rgba(55,70,160,.12); }
+.page-heading{display:flex;align-items:center;gap:12px;margin:1.25rem 0 .6rem}.page-heading>span{width:42px;height:42px;display:grid;place-items:center;border-radius:12px;background:linear-gradient(145deg,#765FFF,#4E3BE2);color:white;box-shadow:0 7px 14px rgba(82,62,220,.25)}.page-heading h1{font-size:1.72rem;line-height:1.1;color:#102B66;margin:0}.page-heading p{color:#445F9D;margin:.25rem 0 0;font-size:.83rem}
+section.career-hero{min-height:225px;margin:.55rem 0 1.25rem;padding:1.65rem 1.8rem;border:1px solid rgba(255,255,255,.7);border-radius:14px;overflow:hidden;display:flex;justify-content:space-between;align-items:center;color:#132D68;background:linear-gradient(105deg,rgba(255,255,255,.92),rgba(236,235,255,.9));box-shadow:0 10px 25px rgba(61,72,160,.1)}.career-hero h2{font-size:clamp(1.75rem,3vw,2.55rem);margin:.5rem 0;color:#102B66}.career-hero p{max-width:450px;color:#5169A7;line-height:1.55}.hero-chip{font-size:.72rem;padding:6px 10px;border-radius:99px;background:#EAE7FF;color:#5741E7;font-weight:700}.hero-art{width:300px;height:190px;position:relative;border-radius:49% 50% 45% 40%;background:radial-gradient(circle at 50% 40%,#fff 0 15%,transparent 16%),linear-gradient(145deg,#dceeff,#c3b8ff)}.hero-art i{position:absolute;font-size:4rem;left:42%;top:28%;color:#5945E9;filter:drop-shadow(0 6px 6px rgba(47,55,160,.16))}.hero-art span{position:absolute;background:#fff;padding:8px 16px;border-radius:9px;box-shadow:0 5px 12px rgba(61,72,160,.12);color:#4c42db;font-weight:700;font-size:.83rem}.hero-art span:nth-of-type(1){top:17px;right:15px}.hero-art span:nth-of-type(2){top:76px;right:1px;background:#DFB7FF;color:white}.hero-art span:nth-of-type(3){bottom:12px;right:35px;background:#FFD59D;color:#A76020}
+.top-profile{height:46px;display:flex;align-items:center;justify-content:flex-end;gap:9px;color:#15336E}.top-profile strong{font-size:.78rem;display:block}.top-profile small{font-size:.65rem;color:#677CAC;display:block}.profile-avatar{width:35px;height:35px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(145deg,#ffc1d9,#8B73FA);color:#fff;font-weight:700}.notification{position:relative;margin-right:10px;font-size:1.15rem}.notification b{position:absolute;width:7px;height:7px;background:#FE4C63;border-radius:50%;right:-3px;top:-1px}
+div[data-testid="stTabs"] button{color:#6576A9;font-weight:600}div[data-testid="stTabs"] button[aria-selected="true"]{color:#5346E2}div[data-testid="stTextInput"] input{border-color:#D5DDF8;border-radius:9px;min-height:48px;background:rgba(255,255,255,.88)}[data-testid="stAppViewContainer"] .block-container{max-width:1480px;padding-top:.55rem;padding-bottom:3rem}
+.tech-badges{display:flex;flex-wrap:wrap;gap:8px;margin:.35rem 0 .65rem}.tech-badge{display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border:1px solid #D8E4FF;border-radius:99px;background:#F8FAFF;color:#34548C;font-size:.72rem;font-weight:600}.tech-badge i{color:#5B4DE6;font-size:.9rem}
+
+/* Requested palette: lavender background remains #BDB2FF; these colors define the surfaces and actions. */
+.stButton>button,.stDownloadButton>button { background:#3E0F8D; }.stButton>button:hover,.stDownloadButton>button:hover { background:#9564DD; }
+div[data-testid="stVerticalBlockBorderWrapper"],div[data-testid="stMetric"] { border-color:rgba(62,15,141,.16); }
+section.career-hero { background:linear-gradient(115deg,#EEEEEE,#EDE8FF); border-color:#E4DA72; }.hero-chip{background:#E4DA72;color:#3E0F8D}.page-heading>span{background:linear-gradient(145deg,#9564DD,#3E0F8D)}.sidebar-orb{background:linear-gradient(145deg,#E4DA72,#9564DD)}
+.tech-badge{background:#EEEEEE;border-color:#E4DA72;color:#3E0F8D}.tech-badge i{color:#9564DD}.auth-form-heading h1,.page-heading h1{color:#3E0F8D}.auth-brand,.auth-form-heading p{color:#3E0F8D}
+[data-testid="stImage"] img { border-radius:14px; border:1px solid rgba(62,15,141,.14); box-shadow:0 9px 22px rgba(62,15,141,.12); }
+
+/* Login layout: keep the artwork inside the left-hand card rather than below it. */
+.auth-top-space + div[data-testid="stVerticalBlockBorderWrapper"] { max-width:1160px; border:1px solid rgba(62,15,141,.20); border-radius:22px; box-shadow:0 24px 60px rgba(62,15,141,.24),0 2px 0 rgba(255,255,255,.9) inset; background:rgba(238,238,238,.97); }
+.auth-illustration { min-height:590px; padding:1.85rem 1.65rem 1.25rem; border-radius:16px; background:linear-gradient(145deg,#EEEEEE 0%,#EDE7FB 57%,#E4DA72 150%); display:flex; flex-direction:column; }
+.login-image-frame { height:395px; position:relative; overflow:hidden; margin:1.1rem -.25rem .1rem; border:1px solid rgba(62,15,141,.12); border-radius:18px; background:#fff; box-shadow:0 15px 26px rgba(62,15,141,.14); }
+.login-image-frame img { display:block; width:100%; height:100%; object-fit:cover; object-position:77% 50%; transform:scale(1.04); }
+.login-image-frame .auth-mantra { position:absolute; z-index:2; left:8%; top:42%; margin:0; color:#3E0F8D; font-weight:700; font-size:1.08rem; font-style:italic; line-height:1.7; text-shadow:0 1px 0 rgba(255,255,255,.9); }
+.auth-form-heading { margin-top:3.2rem; }.auth-form-heading h1 { font-size:2.28rem; }.auth-form-heading p { max-width:390px; }
+.auth-illustration .auth-brand { color:#3E0F8D; }.auth-illustration .brand-mark{color:#9564DD; }
+@media(max-width:700px){.auth-illustration{min-height:0;padding:1.15rem}.login-image-frame{height:250px}.login-image-frame .auth-mantra{font-size:.78rem;top:43%;left:7%;line-height:1.55}.auth-form-heading{margin-top:1.25rem}.auth-top-space + div[data-testid="stVerticalBlockBorderWrapper"]{border-radius:16px}}
+@media(max-width:700px){section.career-hero{padding:1.2rem;min-height:auto}.hero-art{display:none}.top-profile{margin-top:-.5rem}.page-heading h1{font-size:1.4rem}}
+
+/* ============================================================
+   UI upgrade pack — animations, illustrated covers, responsive
+   grid for cards, roadmap mountain scene, stepper, avatars.
+   ============================================================ */
+
+@keyframes fadeInUp { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+@keyframes floatY { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
+@keyframes pulseGlow { 0%,100% { transform:scale(1); opacity:1; } 50% { transform:scale(1.08); opacity:.85; } }
+@keyframes drift { from { transform:translateX(-15%); } to { transform:translateX(115%); } }
+@keyframes shimmer { 0% { background-position:-300px 0; } 100% { background-position:300px 0; } }
+
+/* Gentle entrance animation for cards, metrics and images app-wide */
+div[data-testid="stVerticalBlockBorderWrapper"],
+div[data-testid="stMetric"],
+div[data-testid="stImage"] { animation: fadeInUp .45s cubic-bezier(.2,.7,.3,1) both; }
+.stButton>button, .stDownloadButton>button, .stLinkButton>a { transition: background .18s ease, transform .15s ease, box-shadow .18s ease; }
+.stButton>button:active, .stDownloadButton>button:active { transform: translateY(0) scale(.98); }
+
+/* ---------- Reusable icon-based hero illustration (no external image needed) ---------- */
+.hero-art { animation: fadeInUp .6s ease both; }
+.hero-art i { animation: floatY 3.4s ease-in-out infinite; }
+.hero-art span { animation: floatY 4s ease-in-out infinite; }
+.hero-art span:nth-of-type(2) { animation-delay: .4s; }
+.hero-art span:nth-of-type(3) { animation-delay: .8s; }
+
+/* ---------- Course / Project card gallery ---------- */
+.card-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:18px; margin:.75rem 0 1.25rem; }
+.reco-card { display:flex; flex-direction:column; border-radius:16px; overflow:hidden; background:#fff; border:1px solid rgba(62,15,141,.12); box-shadow:0 8px 20px rgba(62,15,141,.08); transition:transform .22s ease, box-shadow .22s ease; animation:fadeInUp .5s ease both; }
+.reco-card:hover { transform:translateY(-6px); box-shadow:0 18px 34px rgba(62,15,141,.18); }
+.reco-cover { height:128px; position:relative; display:flex; align-items:center; justify-content:center; overflow:hidden; }
+.reco-cover::after { content:''; position:absolute; inset:0; background:radial-gradient(circle at 25% 20%, rgba(255,255,255,.4), transparent 60%); }
+.reco-cover i { font-size:2.5rem; color:#fff; z-index:2; filter:drop-shadow(0 4px 8px rgba(0,0,0,.18)); animation:floatY 3s ease-in-out infinite; }
+.reco-badge { position:absolute; top:10px; right:10px; z-index:3; background:rgba(255,255,255,.92); color:#3E0F8D; font-size:.63rem; font-weight:800; letter-spacing:.02em; padding:4px 9px; border-radius:99px; text-transform:uppercase; }
+.reco-price { position:absolute; top:10px; left:10px; z-index:3; background:rgba(23,23,28,.55); color:#fff; font-size:.63rem; font-weight:700; padding:4px 9px; border-radius:99px; }
+.reco-body { padding:14px 16px 18px; display:flex; flex-direction:column; gap:7px; flex:1; }
+.reco-body h4 { margin:0; font-size:1rem; color:#17171C; line-height:1.3; }
+.reco-meta { font-size:.7rem; color:#6677AF; font-weight:700; text-transform:uppercase; letter-spacing:.04em; }
+.reco-desc { font-size:.83rem; color:#4b4b57; line-height:1.5; }
+.reco-why { font-size:.76rem; background:#F7F5FF; border-left:3px solid #9564DD; padding:6px 10px; border-radius:6px; color:#3E0F8D; margin-top:auto; }
+
+/* ---------- Roadmap: animated mountain scene ---------- */
+.roadmap-hero { position:relative; height:230px; border-radius:20px; overflow:hidden; margin:.4rem 0 1.5rem; background:linear-gradient(180deg,#EEF0FF 0%,#EDE7FB 45%,#E4DA72 100%); box-shadow:0 14px 30px rgba(62,15,141,.14); border:1px solid rgba(62,15,141,.12); }
+.roadmap-hero .sun { position:absolute; top:24px; right:44px; width:52px; height:52px; border-radius:50%; background:radial-gradient(circle at 35% 35%, #fff, #FFD59D 55%, #E4DA72 100%); box-shadow:0 0 46px rgba(228,218,114,.75); animation:pulseGlow 4.5s ease-in-out infinite; }
+.roadmap-hero .cloud { position:absolute; background:#fff; border-radius:60px; opacity:.85; animation:drift linear infinite; }
+.roadmap-hero .cloud::before, .roadmap-hero .cloud::after { content:''; position:absolute; background:#fff; border-radius:50%; }
+.roadmap-hero .c1 { width:70px; height:22px; top:30px; left:0; animation-duration:26s; }
+.roadmap-hero .c1::before { width:30px; height:30px; top:-14px; left:8px; }
+.roadmap-hero .c1::after { width:22px; height:22px; top:-8px; left:34px; }
+.roadmap-hero .c2 { width:54px; height:18px; top:64px; left:0; animation-duration:34s; animation-delay:6s; opacity:.7; }
+.roadmap-hero .c2::before { width:24px; height:24px; top:-11px; left:6px; }
+.roadmap-hero .c2::after { width:16px; height:16px; top:-6px; left:26px; }
+.roadmap-hero .peak { position:absolute; bottom:0; width:0; height:0; border-left:110px solid transparent; border-right:110px solid transparent; }
+.roadmap-hero .peak.back { border-bottom:145px solid #C7B8FF; left:4%; opacity:.85; }
+.roadmap-hero .peak.mid { border-bottom:190px solid #9564DD; left:30%; }
+.roadmap-hero .peak.front { border-bottom:135px solid #3E0F8D; left:56%; }
+.roadmap-hero .snowcap { position:absolute; width:0; height:0; border-left:24px solid transparent; border-right:24px solid transparent; border-bottom:30px solid #fff; opacity:.95; }
+.roadmap-hero .snowcap.back { left:calc(4% + 86px); bottom:145px; }
+.roadmap-hero .snowcap.mid { left:calc(30% + 86px); bottom:190px; }
+.roadmap-hero .snowcap.front { left:calc(56% + 86px); bottom:135px; }
+.roadmap-hero .flag { position:absolute; left:calc(30% + 96px); bottom:186px; font-size:1.5rem; color:#3E0F8D; animation:floatY 2.6s ease-in-out infinite; z-index:4; }
+.roadmap-hero .roadmap-caption { position:absolute; left:24px; bottom:18px; z-index:5; color:#3E0F8D; font-weight:800; font-size:1.05rem; text-shadow:0 1px 0 rgba(255,255,255,.6); }
+.roadmap-hero .roadmap-caption small { display:block; font-weight:600; font-size:.72rem; color:#5741E7; margin-top:2px; }
+
+/* ---------- Roadmap: connected stepper for each milestone ---------- */
+.step-row { position:relative; padding-left:46px; margin-bottom:14px; }
+.step-row::before { content:''; position:absolute; left:16px; top:36px; bottom:-14px; width:2px; background:linear-gradient(#9564DD,#E4DA72); }
+.step-row.step-last::before { display:none; }
+.step-node { position:absolute; left:0; top:0; width:34px; height:34px; border-radius:50%; display:grid; place-items:center; background:linear-gradient(145deg,#9564DD,#3E0F8D); color:#fff; font-weight:800; font-size:.82rem; box-shadow:0 5px 12px rgba(62,15,141,.32); z-index:2; }
+.step-node.done { background:linear-gradient(145deg,#8EE08A,#2E9E44); }
+.step-node.progress { background:linear-gradient(145deg,#FFD59D,#E4A83A); color:#5c3d00; }
+.step-card { background:#fff; border:1px solid rgba(62,15,141,.12); border-radius:12px; padding:2px 4px 4px; box-shadow:0 4px 12px rgba(62,15,141,.06); }
+.step-level { display:inline-block; font-size:.63rem; font-weight:800; letter-spacing:.03em; text-transform:uppercase; color:#5741E7; background:#EEE8FF; padding:2px 8px; border-radius:99px; margin:4px 0 2px; }
+
+/* ---------- Avatars / illustrated fallbacks ---------- */
+.fallback-avatar { width:105px; height:105px; border-radius:50%; display:grid; place-items:center; background:linear-gradient(145deg,#9564DD,#3E0F8D); color:#fff; font-size:2.1rem; font-weight:800; box-shadow:0 8px 18px rgba(62,15,141,.28); }
+.fallback-avatar-sm { width:35px; height:35px; font-size:1rem; }
+.journey-scene .student, .journey-scene .mountain, .journey-scene .scene-badge { animation: fadeInUp .7s ease both; }
+.journey-scene .badge-learn { animation-delay:.1s; } .journey-scene .badge-grow { animation-delay:.25s; } .journey-scene .badge-goal { animation-delay:.4s; }
+
+/* ---------- Course / section hero banner (icon based) ---------- */
+.section-hero { display:flex; align-items:center; gap:18px; padding:1.15rem 1.4rem; border-radius:16px; margin:.3rem 0 1.1rem; background:linear-gradient(115deg,#EEEEEE,#EDE8FF); border:1px solid #E4DA72; box-shadow:0 8px 20px rgba(62,15,141,.08); }
+.section-hero .section-hero-icon { width:56px; height:56px; min-width:56px; border-radius:14px; display:grid; place-items:center; font-size:1.6rem; color:#fff; background:linear-gradient(145deg,#9564DD,#3E0F8D); box-shadow:0 8px 16px rgba(62,15,141,.28); animation:floatY 3.2s ease-in-out infinite; }
+.section-hero h3 { margin:0; color:#3E0F8D; font-size:1.15rem; }
+.section-hero p { margin:.15rem 0 0; color:#5169A7; font-size:.85rem; }
+
+/* ---------- Loading shimmer (optional use) ---------- */
+.skeleton { background:linear-gradient(90deg,#EEE 25%,#F7F5FF 37%,#EEE 63%); background-size:600px 100%; animation:shimmer 1.4s infinite linear; border-radius:10px; }
+
+/* ---------- Responsive polish ---------- */
+@media (max-width: 900px) {
+  .card-grid { grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); }
+}
+@media (max-width: 700px) {
+  .card-grid { grid-template-columns:1fr; gap:14px; }
+  .reco-cover { height:104px; }
+  .roadmap-hero { height:170px; border-radius:16px; }
+  .roadmap-hero .peak.back { border-left-width:70px; border-right-width:70px; border-bottom-width:95px; }
+  .roadmap-hero .peak.mid { border-left-width:78px; border-right-width:78px; border-bottom-width:125px; left:28%; }
+  .roadmap-hero .peak.front { border-left-width:66px; border-right-width:66px; border-bottom-width:88px; left:54%; }
+  .roadmap-hero .snowcap.back { bottom:95px; left:calc(4% + 56px); }
+  .roadmap-hero .snowcap.mid { bottom:125px; left:calc(28% + 62px); }
+  .roadmap-hero .snowcap.front { bottom:88px; left:calc(54% + 50px); }
+  .roadmap-hero .flag { bottom:120px; left:calc(28% + 66px); font-size:1.1rem; }
+  .roadmap-hero .roadmap-caption { font-size:.85rem; left:16px; bottom:12px; }
+  .section-hero { padding:.9rem 1rem; gap:12px; }
+  .section-hero .section-hero-icon { width:44px; height:44px; min-width:44px; font-size:1.25rem; }
+  .step-row { padding-left:40px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
+}
+
+/* ============================================================
+   Round 2: real hot-linked photos, progress rings, pie charts,
+   algorithm graphs, and a compact (not full-width) mountain card.
+   ============================================================ */
+
+/* Photo banners with real Unsplash images (with automatic solid-color fallback) */
+.photo-card { position:relative; overflow:hidden; box-shadow:0 14px 30px rgba(62,15,141,.16); animation:fadeInUp .5s ease both; }
+.photo-card img { transition:transform .35s ease; }
+.photo-card:hover img { transform:scale(1.04); }
+.photo-card-caption { position:absolute; left:0; right:0; bottom:0; padding:10px 14px; background:linear-gradient(0deg,rgba(30,10,60,.72),transparent); color:#fff; font-size:.78rem; font-weight:700; }
+
+/* Compact mountain summit card (small, not a full-width banner) */
+.mini-mountain-card { position:relative; height:150px; border-radius:16px; overflow:hidden; box-shadow:0 10px 24px rgba(62,15,141,.18); animation:fadeInUp .5s ease both; }
+.mini-mountain-overlay { position:absolute; inset:0; background:linear-gradient(180deg, rgba(62,15,141,0) 35%, rgba(24,8,48,.8)); display:flex; flex-direction:column; justify-content:flex-end; padding:10px 12px; color:#fff; }
+.mini-mountain-overlay i { align-self:flex-start; background:rgba(255,255,255,.25); padding:5px 8px; border-radius:8px; margin-bottom:5px; font-size:.8rem; animation:floatY 2.6s ease-in-out infinite; }
+.mini-mountain-overlay p { margin:0; font-size:.72rem; font-style:italic; line-height:1.35; }
+.mini-mountain-overlay small { font-style:normal; opacity:.85; }
+
+/* Course/project cover photo sits behind the icon inside .reco-cover */
+.reco-cover { isolation:isolate; }
+.reco-cover img { z-index:1; }
+
+/* Progress ring (CSS conic-gradient donut) */
+.ring-wrap { display:flex; flex-direction:column; align-items:center; gap:6px; animation:fadeInUp .5s ease both; }
+.ring { border-radius:50%; display:grid; place-items:center; transition:background 1s ease; }
+.ring-hole { border-radius:50%; background:#fff; display:grid; place-items:center; font-weight:800; color:#3E0F8D; font-size:1.05rem; box-shadow:inset 0 0 0 1px rgba(62,15,141,.08); }
+.ring-label { font-size:.72rem; color:#5169A7; font-weight:700; text-align:center; max-width:120px; }
+
+/* Algorithm path graph card */
+.graph-card { background:#fff; border:1px solid rgba(62,15,141,.12); border-radius:16px; padding:10px; box-shadow:0 6px 16px rgba(62,15,141,.06); animation:fadeInUp .5s ease both; }
+
+/* Top-right profile avatar: supports a real uploaded photo, falls back to initials */
+.profile-avatar { background-size:cover; background-position:center; }
+
+@media (max-width: 700px) {
+  .mini-mountain-card { height:120px; }
+  .ring { width:80px !important; height:80px !important; }
+}
+
+/* ============================================================
+   Round 3: clean professional background (no motion), functional
+   search bar with icon, always-visible algorithm graph + written
+   output, and a real winding "snake road" behind the step list.
+   ============================================================ */
+
+/* ---- Calm, professional background (static — no drifting/animated bg) ---- */
+.stApp {
+  background:
+    radial-gradient(circle at 88% 6%, rgba(255,255,255,.4), transparent 24%),
+    radial-gradient(circle at 10% 94%, rgba(255,255,255,.3), transparent 26%),
+    linear-gradient(160deg,#C3B8FF 0%, #BDB2FF 45%, #AC9EF3 100%);
+}
+[data-testid="stSidebar"] {
+  background: linear-gradient(180deg,#150B34,#3E0F8D 60%,#1a0b3f);
+}
+
+/* ---- Sidebar collapse control, styled purple (acts as the responsive toggle) ---- */
+[data-testid="collapsedControl"] { background:linear-gradient(145deg,#9564DD,#3E0F8D); border-radius:10px; box-shadow:0 6px 16px rgba(62,15,141,.4); transition:transform .15s ease; }
+[data-testid="collapsedControl"]:hover { transform:scale(1.06); }
+[data-testid="collapsedControl"] svg { color:#fff !important; fill:#fff !important; }
+button[kind="header"] { color:#fff !important; }
+
+/* ---- Search bar: magnifying-glass icon ---- */
+div[data-testid="stTextInput"]:has(input[aria-label="Search"]) { position:relative; }
+div[data-testid="stTextInput"]:has(input[aria-label="Search"]) input { padding-left:40px !important; border-radius:99px !important; background:rgba(255,255,255,.92) !important; transition:box-shadow .18s ease; }
+div[data-testid="stTextInput"]:has(input[aria-label="Search"]) input:focus { box-shadow:0 0 0 3px rgba(149,100,221,.35); }
+div[data-testid="stTextInput"]:has(input[aria-label="Search"])::before {
+  content:'\f002'; font-family:'Font Awesome 6 Free'; font-weight:900; font-size:.95rem;
+  position:absolute; left:16px; top:50%; transform:translateY(-50%); color:#9564DD; z-index:5; pointer-events:none;
+}
+
+/* ---- Algorithm traversal: graph is always visible now, plus a plain written output list ---- */
+.algo-output-list { list-style:none; margin:.7rem 0 0; padding:0; display:flex; flex-direction:column; gap:6px; }
+.algo-output-list li { display:flex; align-items:center; gap:10px; background:#fff; border:1px solid rgba(62,15,141,.1); border-radius:10px; padding:8px 12px; font-size:.86rem; color:#2A0A66; font-weight:600; transition:opacity .25s ease; }
+.algo-output-list li.active { animation:fadeInUp .3s ease both; }
+.algo-output-list li.pending { opacity:.4; }
+.algo-step-no { width:22px; height:22px; min-width:22px; border-radius:50%; background:#3E0F8D; color:#fff; font-size:.7rem; font-weight:800; display:grid; place-items:center; }
+.algo-output-empty { color:#5169A7; font-size:.85rem; font-style:italic; }
+
+/* Node currently revealed by the Next-step button: gentle pulse, click-triggered not idle-page motion */
+.graph-node-current { animation:pulseGlow 1s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+
+/* ---- Basic → advanced roadmap: a real winding "snake road" behind the step pins ---- */
+div[data-testid="stVerticalBlock"]:has(.snake-road-bg) { position:relative; }
+.snake-road-bg { position:absolute; inset:0; z-index:0; pointer-events:none; }
+div[data-testid="stVerticalBlock"]:has(.snake-road-bg) > div[data-testid="stHorizontalBlock"] { position:relative; z-index:1; }
+.step-node { position:relative; width:44px; height:44px; margin:10px auto; border-radius:50%; display:grid; place-items:center;
+  background:linear-gradient(145deg,#9564DD,#3E0F8D); box-shadow:0 6px 14px rgba(62,15,141,.35); transition:transform .18s ease; }
+.step-node:hover { transform:scale(1.08); }
+.step-node i { color:#fff; font-size:1.05rem; }
+.step-node-badge { position:absolute; bottom:-3px; right:-3px; width:19px; height:19px; border-radius:50%; background:#fff; color:#3E0F8D; font-size:.62rem; font-weight:800; display:grid; place-items:center; box-shadow:0 2px 6px rgba(0,0,0,.22); }
+.step-node.done { background:linear-gradient(145deg,#8EE08A,#2E9E44); }
+.step-node.progress { background:linear-gradient(145deg,#FFD59D,#E4A83A); }
+.step-node.progress i { color:#5c3d00; }
+
+@media (max-width: 700px) {
+  .step-node { width:38px; height:38px; }
+}
+/* Login form button */
+[data-testid="stFormSubmitButton"] button {
+    color: #FFFFFF !important;
+}
+
+[data-testid="stFormSubmitButton"] button p {
+    color: #FFFFFF !important;
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Machine Learning Crash Course",
+    "platform": "Google",
+    "skill": "Machine Learning",
+    "level": "Intermediate",
+    "duration": "15 hours",
+    "pricing": "Free",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "description": "Practical introduction to machine-learning concepts."
+  },
+  {
+    "name": "Scientific Computing with Python",
+    "platform": "freeCodeCamp",
+    "skill": "Python",
+    "level": "Beginner",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "description": "Python fundamentals through practical exercises."
+  },
+  {
+    "name": "React Learn",
+    "platform": "React",
+    "skill": "React",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://react.dev/learn",
+    "description": "Official React learning curriculum."
+  },
+  {
+    "name": "SQLBolt",
+    "platform": "SQLBolt",
+    "skill": "SQL",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://sqlbolt.com/",
+    "description": "Interactive SQL lessons and exercises."
+  },
+  {
+    "name": "Deep Learning Specialization",
+    "platform": "Coursera",
+    "skill": "Deep Learning",
+    "level": "Advanced",
+    "duration": "Approx. 3 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "description": "Neural networks and deep-learning foundations."
+  },
+  {
+    "name": "Power BI Learning",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/training/powerplatform/power-bi/",
+    "description": "Official Microsoft Power BI learning resources."
+  },
+  {
+    "name": "Google Data Analytics Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Data Analytics",
+    "level": "Beginner",
+    "duration": "Approx. 6 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "description": "Career-focused data analytics program from Google."
+  },
+  {
+    "name": "Google Cybersecurity Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "Approx. 6 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+    "description": "Foundational cybersecurity training from Google."
+  },
+  {
+    "name": "Google UX Design Professional Certificate",
+    "platform": "Coursera",
+    "skill": "UX Design",
+    "level": "Beginner",
+    "duration": "Approx. 6 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+    "description": "UX research, wireframes, prototypes, and portfolio work."
+  },
+  {
+    "name": "Meta Front-End Developer Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Front-End Development",
+    "level": "Beginner",
+    "duration": "Approx. 7 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "description": "Front-end development with HTML, CSS, JavaScript, and React."
+  },
+  {
+    "name": "Meta Back-End Developer Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Back-End Development",
+    "level": "Beginner",
+    "duration": "Approx. 8 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+    "description": "Back-end development, APIs, databases, and Python."
+  },
+  {
+    "name": "Meta React Native Specialization",
+    "platform": "Coursera",
+    "skill": "React Native",
+    "level": "Intermediate",
+    "duration": "Approx. 4 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/specializations/meta-react-native",
+    "description": "Build cross-platform mobile applications with React Native."
+  },
+  {
+    "name": "IBM Data Science Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Data Science",
+    "level": "Beginner",
+    "duration": "Approx. 5 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "description": "Practical data science with Python, SQL, visualization, and ML."
+  },
+  {
+    "name": "IBM Data Engineering Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Data Engineering",
+    "level": "Beginner",
+    "duration": "Approx. 5 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-engineer",
+    "description": "Data engineering fundamentals, databases, ETL, and pipelines."
+  },
+  {
+    "name": "IBM Cybersecurity Analyst Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "Approx. 8 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst",
+    "description": "Security operations, network security, and incident response."
+  },
+  {
+    "name": "IBM AI Engineering Professional Certificate",
+    "platform": "Coursera",
+    "skill": "AI Engineering",
+    "level": "Intermediate",
+    "duration": "Approx. 2 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ai-engineer",
+    "description": "Machine learning and deep-learning engineering skills."
+  },
+  {
+    "name": "IBM Full Stack Software Developer Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Full Stack Development",
+    "level": "Beginner",
+    "duration": "Approx. 4 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+    "description": "Full-stack development, cloud, containers, and databases."
+  },
+  {
+    "name": "IBM DevOps and Software Engineering Professional Certificate",
+    "platform": "Coursera",
+    "skill": "DevOps",
+    "level": "Beginner",
+    "duration": "Approx. 4 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering",
+    "description": "DevOps practices, CI/CD, containers, and software engineering."
+  },
+  {
+    "name": "IBM Generative AI Engineering Professional Certificate",
+    "platform": "Coursera",
+    "skill": "Generative AI",
+    "level": "Intermediate",
+    "duration": "Approx. 6 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering",
+    "description": "Build generative AI applications with modern AI tooling."
+  },
+  {
+    "name": "Python for Everybody",
+    "platform": "Coursera",
+    "skill": "Python",
+    "level": "Beginner",
+    "duration": "Approx. 2 months",
+    "pricing": "Paid",
+    "url": "https://www.coursera.org/specializations/python",
+    "description": "Beginner-friendly Python programming specialization."
+  },
+  {
+    "name": "Programming with JavaScript",
+    "platform": "freeCodeCamp",
+    "skill": "JavaScript",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/",
+    "description": "JavaScript fundamentals, algorithms, and data structures."
+  },
+  {
+    "name": "Responsive Web Design",
+    "platform": "freeCodeCamp",
+    "skill": "HTML/CSS",
+    "level": "Beginner",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+    "description": "Build responsive webpages with HTML and CSS."
+  },
+  {
+    "name": "Front End Development Libraries",
+    "platform": "freeCodeCamp",
+    "skill": "Front-End Development",
+    "level": "Intermediate",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+    "description": "Learn popular front-end libraries and build projects."
+  },
+  {
+    "name": "Data Analysis with Python",
+    "platform": "freeCodeCamp",
+    "skill": "Python Data Analysis",
+    "level": "Intermediate",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+    "description": "Analyze data with Python, NumPy, Pandas, and Matplotlib."
+  },
+  {
+    "name": "Machine Learning with Python",
+    "platform": "freeCodeCamp",
+    "skill": "Machine Learning",
+    "level": "Intermediate",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+    "description": "Practical machine learning using Python libraries."
+  },
+  {
+    "name": "Back End Development and APIs",
+    "platform": "freeCodeCamp",
+    "skill": "Node.js",
+    "level": "Intermediate",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+    "description": "Build server-side applications and APIs with Node.js."
+  },
+  {
+    "name": "Relational Database",
+    "platform": "freeCodeCamp",
+    "skill": "SQL",
+    "level": "Beginner",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/relational-database/",
+    "description": "Learn PostgreSQL, SQL, Bash, and relational database concepts."
+  },
+  {
+    "name": "Data Visualization",
+    "platform": "freeCodeCamp",
+    "skill": "Data Visualization",
+    "level": "Intermediate",
+    "duration": "300 hours",
+    "pricing": "Free",
+    "url": "https://www.freecodecamp.org/learn/data-visualization/",
+    "description": "Create data visualizations with web technologies."
+  },
+  {
+    "name": "GitHub Skills: Introduction to GitHub",
+    "platform": "GitHub",
+    "skill": "Git/GitHub",
+    "level": "Beginner",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Hands-on introduction to GitHub workflows."
+  },
+  {
+    "name": "GitHub Skills: First Day on GitHub",
+    "platform": "GitHub",
+    "skill": "Git/GitHub",
+    "level": "Beginner",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Practice repositories, branches, and pull requests."
+  },
+  {
+    "name": "GitHub Skills: Hello GitHub Actions",
+    "platform": "GitHub",
+    "skill": "CI/CD",
+    "level": "Intermediate",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Hands-on introduction to GitHub Actions automation."
+  },
+  {
+    "name": "GitHub Skills: Test with Actions",
+    "platform": "GitHub",
+    "skill": "CI/CD",
+    "level": "Intermediate",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Practice automated testing with GitHub Actions."
+  },
+  {
+    "name": "GitHub Skills: Communicate using Markdown",
+    "platform": "GitHub",
+    "skill": "Markdown",
+    "level": "Beginner",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Learn Markdown for clear technical documentation."
+  },
+  {
+    "name": "Kaggle Learn: Python",
+    "platform": "Kaggle",
+    "skill": "Python",
+    "level": "Beginner",
+    "duration": "7 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/python",
+    "description": "Short practical Python lessons with exercises."
+  },
+  {
+    "name": "Kaggle Learn: Pandas",
+    "platform": "Kaggle",
+    "skill": "Pandas",
+    "level": "Beginner",
+    "duration": "6 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "description": "Learn practical data manipulation with Pandas."
+  },
+  {
+    "name": "Kaggle Learn: Data Visualization",
+    "platform": "Kaggle",
+    "skill": "Data Visualization",
+    "level": "Beginner",
+    "duration": "7 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/data-visualization",
+    "description": "Create effective data visualizations with Python."
+  },
+  {
+    "name": "Kaggle Learn: Intro to Machine Learning",
+    "platform": "Kaggle",
+    "skill": "Machine Learning",
+    "level": "Beginner",
+    "duration": "7 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "description": "Introductory supervised machine learning with practical exercises."
+  },
+  {
+    "name": "Kaggle Learn: Intermediate Machine Learning",
+    "platform": "Kaggle",
+    "skill": "Machine Learning",
+    "level": "Intermediate",
+    "duration": "7 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/intermediate-machine-learning",
+    "description": "Improve ML models with missing values, categorical variables, and pipelines."
+  },
+  {
+    "name": "Kaggle Learn: Intro to SQL",
+    "platform": "Kaggle",
+    "skill": "SQL",
+    "level": "Beginner",
+    "duration": "6 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/intro-to-sql",
+    "description": "Practical SQL queries and data exploration."
+  },
+  {
+    "name": "Kaggle Learn: Advanced SQL",
+    "platform": "Kaggle",
+    "skill": "SQL",
+    "level": "Intermediate",
+    "duration": "6 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/advanced-sql",
+    "description": "Advanced SQL techniques for analytical work."
+  },
+  {
+    "name": "Kaggle Learn: Computer Vision",
+    "platform": "Kaggle",
+    "skill": "Computer Vision",
+    "level": "Intermediate",
+    "duration": "6 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/computer-vision",
+    "description": "Practical computer vision and image classification concepts."
+  },
+  {
+    "name": "Kaggle Learn: Natural Language Processing",
+    "platform": "Kaggle",
+    "skill": "NLP",
+    "level": "Intermediate",
+    "duration": "5 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/natural-language-processing",
+    "description": "Practical NLP using modern machine-learning techniques."
+  },
+  {
+    "name": "Kaggle Learn: Geospatial Analysis",
+    "platform": "Kaggle",
+    "skill": "GIS",
+    "level": "Intermediate",
+    "duration": "5 lessons",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/learn/geospatial-analysis",
+    "description": "Analyze and visualize geospatial data with Python."
+  },
+  {
+    "name": "AWS Cloud Practitioner Essentials",
+    "platform": "AWS",
+    "skill": "AWS Cloud",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+    "description": "Foundational AWS Cloud concepts and services."
+  },
+  {
+    "name": "AWS Technical Essentials",
+    "platform": "AWS",
+    "skill": "AWS Cloud",
+    "level": "Beginner",
+    "duration": "1 day",
+    "pricing": "Paid/Varies",
+    "url": "https://aws.amazon.com/training/classroom/aws-technical-essentials/",
+    "description": "Introduces core AWS services and cloud concepts."
+  },
+  {
+    "name": "AWS Well-Architected Framework",
+    "platform": "AWS",
+    "skill": "Cloud Architecture",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/architecture/well-architected/",
+    "description": "Learn principles for designing secure and reliable cloud workloads."
+  },
+  {
+    "name": "AWS Training: Machine Learning",
+    "platform": "AWS",
+    "skill": "Machine Learning",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://aws.amazon.com/training/learn-about/machine-learning/",
+    "description": "AWS learning resources for machine learning and AI."
+  },
+  {
+    "name": "AWS Training: Security",
+    "platform": "AWS",
+    "skill": "Cloud Security",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://aws.amazon.com/training/learn-about/security/",
+    "description": "AWS security learning resources and training."
+  },
+  {
+    "name": "AWS Training: DevOps",
+    "platform": "AWS",
+    "skill": "DevOps",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://aws.amazon.com/training/learn-about/devops/",
+    "description": "AWS DevOps learning resources for automation and delivery."
+  },
+  {
+    "name": "AWS Training: Networking",
+    "platform": "AWS",
+    "skill": "Networking",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://aws.amazon.com/training/learn-about/networking/",
+    "description": "AWS networking learning resources and training."
+  },
+  {
+    "name": "AWS Training: Serverless",
+    "platform": "AWS",
+    "skill": "Serverless",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://aws.amazon.com/training/learn-about/serverless/",
+    "description": "Learn serverless application concepts and AWS services."
+  },
+  {
+    "name": "Microsoft Learn: Get Started with Power BI",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Beginner",
+    "duration": "21 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+    "description": "Introduction to Power BI and its core building blocks."
+  },
+  {
+    "name": "Microsoft Learn: Prepare and Visualize Data with Power BI",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Beginner",
+    "duration": "8 hr 12 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/prepare-visualize-data-power-bi/",
+    "description": "Connect, transform, and visualize data in Power BI."
+  },
+  {
+    "name": "Microsoft Learn: Model Data with Power BI",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Intermediate",
+    "duration": "5 hr 50 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/",
+    "description": "Build semantic models, relationships, and DAX calculations."
+  },
+  {
+    "name": "Microsoft Learn: Design Effective Reports in Power BI",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Intermediate",
+    "duration": "5 hr 7 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/power-bi-effective/",
+    "description": "Design clear, interactive, and user-friendly Power BI reports."
+  },
+  {
+    "name": "Microsoft Learn: Manage and Secure Power BI",
+    "platform": "Microsoft Learn",
+    "skill": "Power BI",
+    "level": "Intermediate",
+    "duration": "2 hr 54 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/manage-secure-power-bi/",
+    "description": "Manage workspaces, semantic models, and Power BI security."
+  },
+  {
+    "name": "Microsoft Learn: Use DAX in Semantic Models",
+    "platform": "Microsoft Learn",
+    "skill": "DAX",
+    "level": "Intermediate",
+    "duration": "3 hr 23 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/dax-power-bi/",
+    "description": "Learn DAX calculations and analytical expressions."
+  },
+  {
+    "name": "Microsoft Learn: Azure Fundamentals",
+    "platform": "Microsoft Learn",
+    "skill": "Azure",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-cloud-concepts/",
+    "description": "Learn cloud concepts and core Azure services."
+  },
+  {
+    "name": "Microsoft Learn: Azure Administrator",
+    "platform": "Microsoft Learn",
+    "skill": "Azure Administration",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/",
+    "description": "Develop skills for administering Azure resources and services."
+  },
+  {
+    "name": "Microsoft Learn: Azure Developer",
+    "platform": "Microsoft Learn",
+    "skill": "Azure Development",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/paths/az-204-developing-solutions-for-microsoft-azure/",
+    "description": "Develop cloud applications and services on Azure."
+  },
+  {
+    "name": "Microsoft Learn: Explore Generative AI",
+    "platform": "Microsoft Learn",
+    "skill": "Generative AI",
+    "level": "Beginner",
+    "duration": "37 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/modules/explore-generative-ai/",
+    "description": "Introduction to generative AI concepts and applications."
+  },
+  {
+    "name": "Microsoft Learn: Introduction to Generative AI and Agents",
+    "platform": "Microsoft Learn",
+    "skill": "Generative AI",
+    "level": "Beginner",
+    "duration": "37 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/modules/introduction-generative-ai-agents/",
+    "description": "Introduction to generative AI and AI agent concepts."
+  },
+  {
+    "name": "Microsoft Learn: Explore Responsible AI",
+    "platform": "Microsoft Learn",
+    "skill": "Responsible AI",
+    "level": "Beginner",
+    "duration": "34 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/modules/responsible-ai/",
+    "description": "Understand responsible AI principles and practices."
+  },
+  {
+    "name": "Microsoft Learn: Explore AI Basics",
+    "platform": "Microsoft Learn",
+    "skill": "AI",
+    "level": "Beginner",
+    "duration": "58 min",
+    "pricing": "Free",
+    "url": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/",
+    "description": "Build foundational understanding of AI concepts."
+  },
+  {
+    "name": "IBM SkillsBuild: Artificial Intelligence",
+    "platform": "IBM SkillsBuild",
+    "skill": "Artificial Intelligence",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://skillsbuild.org/",
+    "description": "Free AI learning pathways from IBM SkillsBuild."
+  },
+  {
+    "name": "IBM SkillsBuild: Cybersecurity",
+    "platform": "IBM SkillsBuild",
+    "skill": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://skillsbuild.org/",
+    "description": "Free cybersecurity learning covering security fundamentals and tools."
+  },
+  {
+    "name": "IBM SkillsBuild: Data Science",
+    "platform": "IBM SkillsBuild",
+    "skill": "Data Science",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://skillsbuild.org/",
+    "description": "Free data learning covering analytics and data science."
+  },
+  {
+    "name": "IBM SkillsBuild: Cloud Computing",
+    "platform": "IBM SkillsBuild",
+    "skill": "Cloud",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://skillsbuild.org/",
+    "description": "Free cloud-computing learning resources and pathways."
+  },
+  {
+    "name": "Cisco Networking Academy: Introduction to Cybersecurity",
+    "platform": "Cisco Networking Academy",
+    "skill": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.netacad.com/courses/cybersecurity/introduction-to-cybersecurity",
+    "description": "Introduction to cybersecurity concepts and threats."
+  },
+  {
+    "name": "Cisco Networking Academy: Networking Basics",
+    "platform": "Cisco Networking Academy",
+    "skill": "Networking",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.netacad.com/courses/networking/networking-basics",
+    "description": "Foundational networking concepts and practical skills."
+  },
+  {
+    "name": "Cisco Networking Academy: Python Essentials 1",
+    "platform": "Cisco Networking Academy",
+    "skill": "Python",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.netacad.com/courses/programming/python-essentials-1",
+    "description": "Python basics with practical programming exercises."
+  },
+  {
+    "name": "Cisco Networking Academy: Linux Essentials",
+    "platform": "Cisco Networking Academy",
+    "skill": "Linux",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.netacad.com/courses/os-it/linux-essentials",
+    "description": "Linux command line and operating-system fundamentals."
+  },
+  {
+    "name": "Cisco Networking Academy: Networking Devices and Initial Configuration",
+    "platform": "Cisco Networking Academy",
+    "skill": "Networking",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.netacad.com/courses/networking/networking-devices-and-initial-configuration",
+    "description": "Hands-on networking device and initial configuration concepts."
+  },
+  {
+    "name": "Cisco Networking Academy: Ethical Hacker",
+    "platform": "Cisco Networking Academy",
+    "skill": "Ethical Hacking",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://www.netacad.com/courses/cybersecurity/ethical-hacker",
+    "description": "Practical ethical hacking and security assessment concepts."
+  },
+  {
+    "name": "HubSpot Academy: Digital Marketing",
+    "platform": "HubSpot Academy",
+    "skill": "Digital Marketing",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/digital-marketing",
+    "description": "Digital marketing fundamentals across major channels."
+  },
+  {
+    "name": "HubSpot Academy: Content Marketing",
+    "platform": "HubSpot Academy",
+    "skill": "Content Marketing",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/content-marketing",
+    "description": "Content strategy, creation, promotion, and measurement."
+  },
+  {
+    "name": "HubSpot Academy: Social Media Marketing",
+    "platform": "HubSpot Academy",
+    "skill": "Social Media",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/social-media",
+    "description": "Social media strategy, content, and measurement."
+  },
+  {
+    "name": "HubSpot Academy: SEO",
+    "platform": "HubSpot Academy",
+    "skill": "SEO",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/seo-training",
+    "description": "SEO fundamentals, optimization, and search strategy."
+  },
+  {
+    "name": "HubSpot Academy: Email Marketing",
+    "platform": "HubSpot Academy",
+    "skill": "Email Marketing",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/email-marketing",
+    "description": "Email campaign strategy, optimization, and analytics."
+  },
+  {
+    "name": "HubSpot Academy: Inbound Sales",
+    "platform": "HubSpot Academy",
+    "skill": "Sales",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://academy.hubspot.com/courses/inbound-sales",
+    "description": "Inbound sales methodology and customer-focused selling."
+  },
+  {
+    "name": "Figma Learn: Figma Design",
+    "platform": "Figma",
+    "skill": "Figma",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://help.figma.com/hc/en-us/categories/360002051613-Learn-design",
+    "description": "Official Figma design learning and help resources."
+  },
+  {
+    "name": "Figma Learn: Auto Layout",
+    "platform": "Figma",
+    "skill": "Figma",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://help.figma.com/hc/en-us/articles/5731482952599-Guide-to-auto-layout",
+    "description": "Learn Figma Auto Layout for responsive interface design."
+  },
+  {
+    "name": "Figma Learn: Components",
+    "platform": "Figma",
+    "skill": "Design Systems",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma",
+    "description": "Learn reusable components and component-based UI design."
+  },
+  {
+    "name": "Google Analytics Academy",
+    "platform": "Google",
+    "skill": "Google Analytics",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://analytics.google.com/analytics/academy/",
+    "description": "Google Analytics learning resources for measurement and reporting."
+  },
+  {
+    "name": "Google Search Central SEO Starter Guide",
+    "platform": "Google",
+    "skill": "SEO",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+    "description": "Official SEO fundamentals and best practices from Google Search Central."
+  },
+  {
+    "name": "Google UX Design Resources",
+    "platform": "Google",
+    "skill": "UX Design",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://design.google/library/",
+    "description": "Google design resources for UX and interface design."
+  },
+  {
+    "name": "Oracle Java Tutorials",
+    "platform": "Oracle",
+    "skill": "Java",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://docs.oracle.com/javase/tutorial/",
+    "description": "Official Java programming tutorials from Oracle."
+  },
+  {
+    "name": "Oracle Database Learning",
+    "platform": "Oracle",
+    "skill": "SQL/Database",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://education.oracle.com/",
+    "description": "Oracle database training and learning resources."
+  },
+  {
+    "name": "Unity Learn",
+    "platform": "Unity",
+    "skill": "Unity",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://learn.unity.com/",
+    "description": "Official Unity learning pathways for game development."
+  },
+  {
+    "name": "Unreal Engine Learning",
+    "platform": "Epic Games",
+    "skill": "Unreal Engine",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://dev.epicgames.com/community/unreal-engine/learning",
+    "description": "Official Unreal Engine learning resources and courses."
+  },
+  {
+    "name": "Blender Fundamentals",
+    "platform": "Blender",
+    "skill": "3D Modeling",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.blender.org/support/tutorials/",
+    "description": "Official Blender tutorials and learning resources."
+  },
+  {
+    "name": "PostgreSQL Tutorial",
+    "platform": "PostgreSQL",
+    "skill": "PostgreSQL",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "description": "Official PostgreSQL tutorial covering SQL and database basics."
+  },
+  {
+    "name": "Docker Get Started",
+    "platform": "Docker",
+    "skill": "Docker",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://docs.docker.com/get-started/",
+    "description": "Official Docker getting-started tutorials and container fundamentals."
+  },
+  {
+    "name": "Kubernetes Basics",
+    "platform": "Kubernetes",
+    "skill": "Kubernetes",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+    "description": "Interactive introduction to Kubernetes concepts and commands."
+  },
+  {
+    "name": "Terraform Tutorials",
+    "platform": "HashiCorp",
+    "skill": "Terraform",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://developer.hashicorp.com/terraform/tutorials",
+    "description": "Official hands-on Terraform tutorials for infrastructure as code."
+  },
+  {
+    "name": "GitHub Skills: Review Pull Requests",
+    "platform": "GitHub",
+    "skill": "Git/GitHub",
+    "level": "Beginner",
+    "duration": "Less than 1 hour",
+    "pricing": "Free",
+    "url": "https://skills.github.com/",
+    "description": "Practice reviewing and collaborating on pull requests."
+  },
+  {
+    "name": "Linux Foundation: Introduction to Linux",
+    "platform": "Linux Foundation",
+    "skill": "Linux",
+    "level": "Beginner",
+    "duration": "Self-paced",
+    "pricing": "Free/Paid",
+    "url": "https://training.linuxfoundation.org/training/introduction-to-linux/",
+    "description": "Foundational Linux concepts and command-line skills."
+  },
+  {
+    "name": "Linux Foundation: Kubernetes Fundamentals",
+    "platform": "Linux Foundation",
+    "skill": "Kubernetes",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Paid",
+    "url": "https://training.linuxfoundation.org/training/kubernetes-fundamentals/",
+    "description": "Core Kubernetes concepts for developers and operators."
+  },
+  {
+    "name": "Fast.ai Practical Deep Learning for Coders",
+    "platform": "fast.ai",
+    "skill": "Deep Learning",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://course.fast.ai/",
+    "description": "Hands-on deep learning course using practical coding projects."
+  },
+  {
+    "name": "Hugging Face NLP Course",
+    "platform": "Hugging Face",
+    "skill": "NLP",
+    "level": "Intermediate",
+    "duration": "Self-paced",
+    "pricing": "Free",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "description": "Hands-on NLP and transformer model learning."
+  }
+]

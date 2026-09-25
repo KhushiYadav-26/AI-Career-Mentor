@@ -1,0 +1,4549 @@
+[
+  {
+    "id": "aiml",
+    "name": "AI/ML Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Designs data-driven products and machine-learning systems.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Git",
+        "Data Structures"
+      ],
+      "Intermediate": [
+        "NumPy",
+        "Pandas",
+        "Machine Learning",
+        "SQL"
+      ],
+      "Advanced": [
+        "Deep Learning",
+        "TensorFlow",
+        "MLOps"
+      ]
+    },
+    "tools": [
+      "Jupyter",
+      "GitHub",
+      "Docker"
+    ],
+    "prerequisites": [
+      "Basic programming",
+      "High-school mathematics"
+    ],
+    "certifications": [
+      "Google Machine Learning Crash Course",
+      "IBM Machine Learning"
+    ],
+    "learning_path": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps"
+    ],
+    "projects": [
+      "Student Performance Prediction",
+      "Image Classification"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Full Stack Developer",
+    "category": "Software Development",
+    "description": "Builds complete, accessible web applications from interface to database.",
+    "skills": {
+      "Beginner": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git"
+      ],
+      "Intermediate": [
+        "React",
+        "Node.js",
+        "REST APIs",
+        "Databases"
+      ],
+      "Advanced": [
+        "Authentication",
+        "Docker",
+        "Cloud Deployment"
+      ]
+    },
+    "tools": [
+      "VS Code",
+      "GitHub",
+      "Postman"
+    ],
+    "prerequisites": [
+      "Basic computer literacy"
+    ],
+    "certifications": [
+      "freeCodeCamp Responsive Web Design",
+      "Meta Front-End"
+    ],
+    "learning_path": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "REST APIs",
+      "Databases"
+    ],
+    "projects": [
+      "Portfolio Website",
+      "Task Manager API"
+    ]
+  },
+  {
+    "id": "data",
+    "name": "Data Analyst",
+    "category": "Data",
+    "description": "Turns data into useful reports, insights, and decisions.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Python",
+        "Statistics"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Pandas",
+        "Data Visualization"
+      ],
+      "Advanced": [
+        "Tableau",
+        "Power BI",
+        "A/B Testing"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "Jupyter",
+      "Tableau"
+    ],
+    "prerequisites": [
+      "Basic mathematics"
+    ],
+    "certifications": [
+      "Google Data Analytics",
+      "Microsoft Power BI"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Pandas",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "projects": [
+      "Sales Dashboard",
+      "Customer Churn Analysis"
+    ]
+  },
+  {
+    "id": "frontend",
+    "name": "Front-End Developer",
+    "category": "Software Development",
+    "description": "Creates responsive and accessible interfaces for web applications.",
+    "skills": {
+      "Beginner": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "Intermediate": [
+        "React",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "Advanced": [
+        "Next.js",
+        "Testing",
+        "Performance Optimization"
+      ]
+    },
+    "tools": [
+      "VS Code",
+      "GitHub",
+      "Figma"
+    ],
+    "prerequisites": [
+      "Basic web development"
+    ],
+    "certifications": [
+      "Meta Front-End Developer",
+      "freeCodeCamp Front End"
+    ],
+    "learning_path": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "projects": [
+      "E-commerce UI",
+      "Weather Dashboard"
+    ]
+  },
+  {
+    "id": "backend",
+    "name": "Back-End Developer",
+    "category": "Software Development",
+    "description": "Builds reliable APIs, services, databases, and server-side systems.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Git",
+        "HTTP"
+      ],
+      "Intermediate": [
+        "Node.js",
+        "Python",
+        "SQL",
+        "REST APIs"
+      ],
+      "Advanced": [
+        "Microservices",
+        "Docker",
+        "Cloud Deployment"
+      ]
+    },
+    "tools": [
+      "Postman",
+      "GitHub",
+      "Docker"
+    ],
+    "prerequisites": [
+      "Basic programming"
+    ],
+    "certifications": [
+      "Meta Back-End Developer",
+      "AWS Developer"
+    ],
+    "learning_path": [
+      "Python",
+      "SQL",
+      "REST APIs",
+      "Node.js",
+      "Docker"
+    ],
+    "projects": [
+      "Book API",
+      "Inventory Service"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile App Developer",
+    "category": "Mobile Development",
+    "description": "Develops user-friendly applications for Android and iOS devices.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Git",
+        "UI Basics"
+      ],
+      "Intermediate": [
+        "Flutter",
+        "React Native",
+        "APIs"
+      ],
+      "Advanced": [
+        "Mobile Security",
+        "App Deployment",
+        "Performance"
+      ]
+    },
+    "tools": [
+      "Android Studio",
+      "Xcode",
+      "Firebase"
+    ],
+    "prerequisites": [
+      "Basic programming"
+    ],
+    "certifications": [
+      "Google Associate Android Developer",
+      "Meta React Native"
+    ],
+    "learning_path": [
+      "Programming",
+      "Flutter",
+      "APIs",
+      "Firebase",
+      "Mobile Deployment"
+    ],
+    "projects": [
+      "Expense Tracker",
+      "Fitness App"
+    ]
+  },
+  {
+    "id": "android",
+    "name": "Android Developer",
+    "category": "Mobile Development",
+    "description": "Creates native Android applications and services.",
+    "skills": {
+      "Beginner": [
+        "Kotlin",
+        "Git",
+        "UI Basics"
+      ],
+      "Intermediate": [
+        "Android SDK",
+        "Jetpack Compose",
+        "Room"
+      ],
+      "Advanced": [
+        "Coroutines",
+        "Testing",
+        "Play Store Deployment"
+      ]
+    },
+    "tools": [
+      "Android Studio",
+      "Firebase",
+      "GitHub"
+    ],
+    "prerequisites": [
+      "Basic programming"
+    ],
+    "certifications": [
+      "Google Android Development",
+      "Kotlin Developer"
+    ],
+    "learning_path": [
+      "Kotlin",
+      "Android SDK",
+      "Jetpack Compose",
+      "Room",
+      "Testing"
+    ],
+    "projects": [
+      "Notes App",
+      "Campus Companion"
+    ]
+  },
+  {
+    "id": "ios",
+    "name": "iOS Developer",
+    "category": "Mobile Development",
+    "description": "Builds polished applications for Apple platforms.",
+    "skills": {
+      "Beginner": [
+        "Swift",
+        "Git",
+        "UI Basics"
+      ],
+      "Intermediate": [
+        "SwiftUI",
+        "UIKit",
+        "Core Data"
+      ],
+      "Advanced": [
+        "Concurrency",
+        "Testing",
+        "App Store Deployment"
+      ]
+    },
+    "tools": [
+      "Xcode",
+      "TestFlight",
+      "Firebase"
+    ],
+    "prerequisites": [
+      "Basic programming"
+    ],
+    "certifications": [
+      "Apple App Development",
+      "Swift Certification"
+    ],
+    "learning_path": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Core Data",
+      "Testing"
+    ],
+    "projects": [
+      "Habit Tracker",
+      "Recipe Planner"
+    ]
+  },
+  {
+    "id": "devops",
+    "name": "DevOps Engineer",
+    "category": "Cloud & Infrastructure",
+    "description": "Automates software delivery and manages reliable infrastructure.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Git",
+        "Networking"
+      ],
+      "Intermediate": [
+        "Docker",
+        "CI/CD",
+        "Cloud Basics"
+      ],
+      "Advanced": [
+        "Kubernetes",
+        "Terraform",
+        "Observability"
+      ]
+    },
+    "tools": [
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes"
+    ],
+    "prerequisites": [
+      "Linux fundamentals"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Docker Certified Associate"
+    ],
+    "learning_path": [
+      "Linux",
+      "Git",
+      "Docker",
+      "CI/CD",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "projects": [
+      "CI/CD Pipeline",
+      "Containerized App"
+    ]
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud Engineer",
+    "category": "Cloud & Infrastructure",
+    "description": "Designs, deploys, and operates scalable cloud infrastructure.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Networking",
+        "Git"
+      ],
+      "Intermediate": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Terraform"
+      ],
+      "Advanced": [
+        "Kubernetes",
+        "Serverless",
+        "Cloud Security"
+      ]
+    },
+    "tools": [
+      "AWS",
+      "Azure",
+      "Terraform",
+      "Docker"
+    ],
+    "prerequisites": [
+      "Networking fundamentals"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Azure Fundamentals"
+    ],
+    "learning_path": [
+      "Linux",
+      "Cloud",
+      "Docker",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "projects": [
+      "Cloud Migration Plan",
+      "Serverless API"
+    ]
+  },
+  {
+    "id": "cyber",
+    "name": "Cybersecurity Analyst",
+    "category": "Cybersecurity",
+    "description": "Protects systems and investigates security threats.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "SIEM",
+        "Python",
+        "Incident Response"
+      ],
+      "Advanced": [
+        "Threat Hunting",
+        "Digital Forensics",
+        "Security Automation"
+      ]
+    },
+    "tools": [
+      "Wireshark",
+      "Splunk",
+      "Kali Linux"
+    ],
+    "prerequisites": [
+      "Networking fundamentals"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Google Cybersecurity"
+    ],
+    "learning_path": [
+      "Networking",
+      "Linux",
+      "SIEM",
+      "Incident Response",
+      "Threat Hunting"
+    ],
+    "projects": [
+      "SOC Monitoring Lab",
+      "Phishing Detection"
+    ]
+  },
+  {
+    "id": "security_engineer",
+    "name": "Security Engineer",
+    "category": "Cybersecurity",
+    "description": "Builds secure systems, controls, and defensive technologies.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "Python",
+        "Cloud Security",
+        "SIEM"
+      ],
+      "Advanced": [
+        "Zero Trust",
+        "Security Architecture",
+        "Automation"
+      ]
+    },
+    "tools": [
+      "Burp Suite",
+      "Splunk",
+      "AWS"
+    ],
+    "prerequisites": [
+      "Networking and security basics"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "AWS Security Specialty"
+    ],
+    "learning_path": [
+      "Linux",
+      "Python",
+      "Cloud Security",
+      "SIEM",
+      "Zero Trust"
+    ],
+    "projects": [
+      "Secure Web Service",
+      "IAM Hardening"
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "name": "Data Scientist",
+    "category": "Data & Analytics",
+    "description": "Uses statistics and machine learning to solve complex business problems.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Statistics",
+        "SQL"
+      ],
+      "Intermediate": [
+        "Pandas",
+        "Machine Learning",
+        "Data Visualization"
+      ],
+      "Advanced": [
+        "Deep Learning",
+        "Experiment Design",
+        "MLOps"
+      ]
+    },
+    "tools": [
+      "Jupyter",
+      "Python",
+      "Tableau"
+    ],
+    "prerequisites": [
+      "Statistics fundamentals"
+    ],
+    "certifications": [
+      "IBM Data Science",
+      "Google Advanced Data Analytics"
+    ],
+    "learning_path": [
+      "Python",
+      "Statistics",
+      "SQL",
+      "Pandas",
+      "Machine Learning",
+      "MLOps"
+    ],
+    "projects": [
+      "Demand Forecasting",
+      "Customer Segmentation"
+    ]
+  },
+  {
+    "id": "data_engineer",
+    "name": "Data Engineer",
+    "category": "Data & Analytics",
+    "description": "Builds pipelines and platforms that make data reliable and accessible.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "SQL",
+        "Git"
+      ],
+      "Intermediate": [
+        "ETL",
+        "Spark",
+        "Data Warehousing"
+      ],
+      "Advanced": [
+        "Airflow",
+        "Kafka",
+        "Cloud Data Platforms"
+      ]
+    },
+    "tools": [
+      "Airflow",
+      "Spark",
+      "BigQuery",
+      "Snowflake"
+    ],
+    "prerequisites": [
+      "SQL fundamentals"
+    ],
+    "certifications": [
+      "Google Cloud Data Engineer",
+      "Databricks Data Engineer"
+    ],
+    "learning_path": [
+      "Python",
+      "SQL",
+      "ETL",
+      "Spark",
+      "Airflow",
+      "Data Warehousing"
+    ],
+    "projects": [
+      "Data Lake Pipeline",
+      "Streaming ETL"
+    ]
+  },
+  {
+    "id": "mlops",
+    "name": "MLOps Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Operationalizes machine-learning models with automation and monitoring.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Git",
+        "Machine Learning"
+      ],
+      "Intermediate": [
+        "Docker",
+        "CI/CD",
+        "Model Serving"
+      ],
+      "Advanced": [
+        "Kubernetes",
+        "ML Monitoring",
+        "Cloud ML"
+      ]
+    },
+    "tools": [
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions"
+    ],
+    "prerequisites": [
+      "Machine learning basics"
+    ],
+    "certifications": [
+      "Google Professional ML Engineer",
+      "AWS ML Specialty"
+    ],
+    "learning_path": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "CI/CD",
+      "MLflow",
+      "Kubernetes"
+    ],
+    "projects": [
+      "Model Deployment Pipeline",
+      "ML Monitoring System"
+    ]
+  },
+  {
+    "id": "nlp",
+    "name": "NLP Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Builds systems that understand, search, and generate human language.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Statistics",
+        "Machine Learning"
+      ],
+      "Intermediate": [
+        "NLP",
+        "Transformers",
+        "PyTorch"
+      ],
+      "Advanced": [
+        "LLMs",
+        "RAG",
+        "Fine-tuning"
+      ]
+    },
+    "tools": [
+      "Hugging Face",
+      "PyTorch",
+      "LangChain"
+    ],
+    "prerequisites": [
+      "Python and ML basics"
+    ],
+    "certifications": [
+      "Hugging Face NLP Course",
+      "DeepLearning.AI NLP"
+    ],
+    "learning_path": [
+      "Python",
+      "NLP",
+      "Transformers",
+      "PyTorch",
+      "RAG",
+      "LLMs"
+    ],
+    "projects": [
+      "Document Q&A",
+      "Sentiment Analyzer"
+    ]
+  },
+  {
+    "id": "computer_vision",
+    "name": "Computer Vision Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Develops systems that interpret images and video.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Linear Algebra",
+        "Machine Learning"
+      ],
+      "Intermediate": [
+        "OpenCV",
+        "CNNs",
+        "PyTorch"
+      ],
+      "Advanced": [
+        "Object Detection",
+        "Segmentation",
+        "Vision Transformers"
+      ]
+    },
+    "tools": [
+      "OpenCV",
+      "PyTorch",
+      "Jupyter"
+    ],
+    "prerequisites": [
+      "Python and ML basics"
+    ],
+    "certifications": [
+      "OpenCV Courses",
+      "DeepLearning.AI Computer Vision"
+    ],
+    "learning_path": [
+      "Python",
+      "OpenCV",
+      "CNNs",
+      "PyTorch",
+      "Object Detection"
+    ],
+    "projects": [
+      "Traffic Sign Detection",
+      "Defect Inspection"
+    ]
+  },
+  {
+    "id": "genai",
+    "name": "Generative AI Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Creates applications using large language and generative models.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "APIs",
+        "Machine Learning"
+      ],
+      "Intermediate": [
+        "LLMs",
+        "Prompt Engineering",
+        "Embeddings"
+      ],
+      "Advanced": [
+        "RAG",
+        "Fine-tuning",
+        "AI Agents"
+      ]
+    },
+    "tools": [
+      "OpenAI APIs",
+      "Hugging Face",
+      "LangChain"
+    ],
+    "prerequisites": [
+      "Python fundamentals"
+    ],
+    "certifications": [
+      "DeepLearning.AI Generative AI",
+      "Hugging Face Course"
+    ],
+    "learning_path": [
+      "Python",
+      "LLMs",
+      "Embeddings",
+      "RAG",
+      "AI Agents"
+    ],
+    "projects": [
+      "AI Study Assistant",
+      "Knowledge Base Chatbot"
+    ]
+  },
+  {
+    "id": "prompt",
+    "name": "Prompt Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Designs effective prompts and evaluation workflows for AI systems.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "AI Basics",
+        "Critical Thinking"
+      ],
+      "Intermediate": [
+        "Prompt Design",
+        "Evaluation",
+        "APIs"
+      ],
+      "Advanced": [
+        "Agent Workflows",
+        "RAG",
+        "Safety Evaluation"
+      ]
+    },
+    "tools": [
+      "ChatGPT",
+      "Python",
+      "LangChain"
+    ],
+    "prerequisites": [
+      "AI fundamentals"
+    ],
+    "certifications": [
+      "DeepLearning.AI Prompt Engineering",
+      "Google Generative AI"
+    ],
+    "learning_path": [
+      "Prompt Design",
+      "Evaluation",
+      "Python",
+      "RAG"
+    ],
+    "projects": [
+      "Prompt Evaluation Suite",
+      "AI Content Assistant"
+    ]
+  },
+  {
+    "id": "ai_product",
+    "name": "AI Product Manager",
+    "category": "Product & Management",
+    "description": "Guides AI products from user needs through delivery and evaluation.",
+    "skills": {
+      "Beginner": [
+        "Product Basics",
+        "Communication",
+        "AI Basics"
+      ],
+      "Intermediate": [
+        "Product Analytics",
+        "Experimentation",
+        "AI UX"
+      ],
+      "Advanced": [
+        "AI Strategy",
+        "Model Evaluation",
+        "Responsible AI"
+      ]
+    },
+    "tools": [
+      "Jira",
+      "Notion",
+      "Figma"
+    ],
+    "prerequisites": [
+      "Product management basics"
+    ],
+    "certifications": [
+      "AI Product Management",
+      "Google Project Management"
+    ],
+    "learning_path": [
+      "Product Strategy",
+      "AI UX",
+      "Analytics",
+      "Model Evaluation"
+    ],
+    "projects": [
+      "AI Feature Roadmap",
+      "Recommendation Product"
+    ]
+  },
+  {
+    "id": "product_manager",
+    "name": "Product Manager",
+    "category": "Product & Management",
+    "description": "Defines product strategy, priorities, and user-focused roadmaps.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Research",
+        "Problem Solving"
+      ],
+      "Intermediate": [
+        "Roadmapping",
+        "Analytics",
+        "Agile"
+      ],
+      "Advanced": [
+        "Product Strategy",
+        "Experimentation",
+        "Leadership"
+      ]
+    },
+    "tools": [
+      "Jira",
+      "Figma",
+      "Notion"
+    ],
+    "prerequisites": [
+      "Basic business knowledge"
+    ],
+    "certifications": [
+      "Google Project Management",
+      "Product School"
+    ],
+    "learning_path": [
+      "Product Strategy",
+      "Roadmapping",
+      "Analytics",
+      "Agile"
+    ],
+    "projects": [
+      "Product Roadmap",
+      "MVP Specification"
+    ]
+  },
+  {
+    "id": "project_manager",
+    "name": "Project Manager",
+    "category": "Product & Management",
+    "description": "Plans projects, coordinates teams, and manages delivery.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Planning",
+        "Documentation"
+      ],
+      "Intermediate": [
+        "Agile",
+        "Risk Management",
+        "Stakeholder Management"
+      ],
+      "Advanced": [
+        "Program Management",
+        "Budgeting",
+        "Leadership"
+      ]
+    },
+    "tools": [
+      "Jira",
+      "Trello",
+      "Microsoft Project"
+    ],
+    "prerequisites": [
+      "Organizational skills"
+    ],
+    "certifications": [
+      "Google Project Management",
+      "PMI CAPM"
+    ],
+    "learning_path": [
+      "Planning",
+      "Agile",
+      "Risk Management",
+      "Leadership"
+    ],
+    "projects": [
+      "Project Plan",
+      "Delivery Dashboard"
+    ]
+  },
+  {
+    "id": "business_analyst",
+    "name": "Business Analyst",
+    "category": "Business & Analytics",
+    "description": "Translates business needs into requirements, processes, and insights.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Communication",
+        "Problem Solving"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Requirements Analysis",
+        "Process Mapping"
+      ],
+      "Advanced": [
+        "Business Strategy",
+        "Data Modeling",
+        "Advanced Analytics"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "Power BI",
+      "Jira"
+    ],
+    "prerequisites": [
+      "Basic business knowledge"
+    ],
+    "certifications": [
+      "ECBA",
+      "Microsoft Power BI"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "Requirements Analysis",
+      "Power BI"
+    ],
+    "projects": [
+      "Sales Requirements",
+      "Process Improvement"
+    ]
+  },
+  {
+    "id": "financial_analyst",
+    "name": "Financial Analyst",
+    "category": "Finance & Analytics",
+    "description": "Analyzes financial data to support planning and investment decisions.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Accounting Basics",
+        "Statistics"
+      ],
+      "Intermediate": [
+        "Financial Modeling",
+        "SQL",
+        "Power BI"
+      ],
+      "Advanced": [
+        "Valuation",
+        "Forecasting",
+        "Risk Analysis"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "Power BI",
+      "Bloomberg"
+    ],
+    "prerequisites": [
+      "Basic accounting"
+    ],
+    "certifications": [
+      "CFA Program",
+      "FMVA"
+    ],
+    "learning_path": [
+      "Excel",
+      "Financial Modeling",
+      "SQL",
+      "Forecasting"
+    ],
+    "projects": [
+      "Budget Model",
+      "Revenue Forecast"
+    ]
+  },
+  {
+    "id": "marketing_analyst",
+    "name": "Marketing Analyst",
+    "category": "Marketing",
+    "description": "Measures campaigns and customer behavior to improve marketing decisions.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Marketing Basics"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Google Analytics",
+        "Data Visualization"
+      ],
+      "Advanced": [
+        "Attribution",
+        "Experimentation",
+        "Marketing Mix Modeling"
+      ]
+    },
+    "tools": [
+      "GA4",
+      "Looker Studio",
+      "Excel"
+    ],
+    "prerequisites": [
+      "Basic marketing knowledge"
+    ],
+    "certifications": [
+      "Google Analytics Certification",
+      "HubSpot Analytics"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "GA4",
+      "Data Visualization"
+    ],
+    "projects": [
+      "Campaign Dashboard",
+      "Customer Funnel"
+    ]
+  },
+  {
+    "id": "digital_marketer",
+    "name": "Digital Marketing Specialist",
+    "category": "Marketing",
+    "description": "Plans and optimizes digital campaigns across online channels.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "Marketing Basics",
+        "Social Media"
+      ],
+      "Intermediate": [
+        "SEO",
+        "Google Ads",
+        "Analytics"
+      ],
+      "Advanced": [
+        "Conversion Optimization",
+        "Marketing Automation",
+        "Strategy"
+      ]
+    },
+    "tools": [
+      "Google Ads",
+      "GA4",
+      "HubSpot"
+    ],
+    "prerequisites": [
+      "Basic marketing knowledge"
+    ],
+    "certifications": [
+      "Google Ads Certification",
+      "HubSpot Marketing"
+    ],
+    "learning_path": [
+      "SEO",
+      "Google Ads",
+      "Analytics",
+      "Content Marketing"
+    ],
+    "projects": [
+      "SEO Audit",
+      "Campaign Plan"
+    ]
+  },
+  {
+    "id": "seo",
+    "name": "SEO Specialist",
+    "category": "Marketing",
+    "description": "Improves search visibility, organic traffic, and website discoverability.",
+    "skills": {
+      "Beginner": [
+        "HTML",
+        "Writing",
+        "Web Basics"
+      ],
+      "Intermediate": [
+        "Keyword Research",
+        "Technical SEO",
+        "Analytics"
+      ],
+      "Advanced": [
+        "Link Strategy",
+        "SEO Automation",
+        "Content Strategy"
+      ]
+    },
+    "tools": [
+      "Google Search Console",
+      "GA4",
+      "Ahrefs"
+    ],
+    "prerequisites": [
+      "Basic web knowledge"
+    ],
+    "certifications": [
+      "Google SEO Starter Guide",
+      "Semrush SEO Toolkit"
+    ],
+    "learning_path": [
+      "SEO",
+      "HTML",
+      "Analytics",
+      "Keyword Research"
+    ],
+    "projects": [
+      "SEO Audit",
+      "Keyword Strategy"
+    ]
+  },
+  {
+    "id": "content",
+    "name": "Content Strategist",
+    "category": "Marketing",
+    "description": "Creates content plans that connect audiences with business goals.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "Research",
+        "Communication"
+      ],
+      "Intermediate": [
+        "SEO",
+        "Content Analytics",
+        "Editorial Planning"
+      ],
+      "Advanced": [
+        "Content Strategy",
+        "Brand Voice",
+        "Automation"
+      ]
+    },
+    "tools": [
+      "Notion",
+      "Google Analytics",
+      "Figma"
+    ],
+    "prerequisites": [
+      "Strong writing skills"
+    ],
+    "certifications": [
+      "HubSpot Content Marketing",
+      "Google Analytics"
+    ],
+    "learning_path": [
+      "Writing",
+      "SEO",
+      "Analytics",
+      "Content Strategy"
+    ],
+    "projects": [
+      "Content Calendar",
+      "Brand Content Plan"
+    ]
+  },
+  {
+    "id": "ux",
+    "name": "UX Designer",
+    "category": "Design",
+    "description": "Researches users and designs useful, accessible digital experiences.",
+    "skills": {
+      "Beginner": [
+        "Design Basics",
+        "Research",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing"
+      ],
+      "Advanced": [
+        "Design Systems",
+        "Accessibility",
+        "UX Strategy"
+      ]
+    },
+    "tools": [
+      "Figma",
+      "FigJam",
+      "Maze"
+    ],
+    "prerequisites": [
+      "Basic design principles"
+    ],
+    "certifications": [
+      "Google UX Design",
+      "NN/g UX Resources"
+    ],
+    "learning_path": [
+      "Research",
+      "Wireframing",
+      "Figma",
+      "Prototyping",
+      "Usability Testing"
+    ],
+    "projects": [
+      "Mobile App UX",
+      "E-commerce Redesign"
+    ]
+  },
+  {
+    "id": "ui",
+    "name": "UI Designer",
+    "category": "Design",
+    "description": "Designs polished visual interfaces for digital products.",
+    "skills": {
+      "Beginner": [
+        "Design Basics",
+        "Color",
+        "Typography"
+      ],
+      "Intermediate": [
+        "Figma",
+        "Components",
+        "Responsive Design"
+      ],
+      "Advanced": [
+        "Design Systems",
+        "Motion Design",
+        "Accessibility"
+      ]
+    },
+    "tools": [
+      "Figma",
+      "Adobe Illustrator",
+      "Framer"
+    ],
+    "prerequisites": [
+      "Basic design principles"
+    ],
+    "certifications": [
+      "Google UX Design",
+      "Adobe Certified Professional"
+    ],
+    "learning_path": [
+      "Figma",
+      "Typography",
+      "Components",
+      "Responsive Design"
+    ],
+    "projects": [
+      "Dashboard UI",
+      "Mobile Banking UI"
+    ]
+  },
+  {
+    "id": "product_designer",
+    "name": "Product Designer",
+    "category": "Design",
+    "description": "Combines UX research, interaction design, and visual design.",
+    "skills": {
+      "Beginner": [
+        "Design Basics",
+        "Research",
+        "Figma"
+      ],
+      "Intermediate": [
+        "Prototyping",
+        "Usability Testing",
+        "Design Systems"
+      ],
+      "Advanced": [
+        "Product Strategy",
+        "Accessibility",
+        "Design Leadership"
+      ]
+    },
+    "tools": [
+      "Figma",
+      "FigJam",
+      "Framer"
+    ],
+    "prerequisites": [
+      "Basic UX/UI knowledge"
+    ],
+    "certifications": [
+      "Google UX Design",
+      "Interaction Design Foundation"
+    ],
+    "learning_path": [
+      "UX Research",
+      "Figma",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "projects": [
+      "SaaS Product Redesign",
+      "Onboarding Flow"
+    ]
+  },
+  {
+    "id": "graphic",
+    "name": "Graphic Designer",
+    "category": "Design",
+    "description": "Creates visual communication for brands, products, and campaigns.",
+    "skills": {
+      "Beginner": [
+        "Design Basics",
+        "Typography",
+        "Color Theory"
+      ],
+      "Intermediate": [
+        "Illustration",
+        "Branding",
+        "Layout"
+      ],
+      "Advanced": [
+        "Art Direction",
+        "Motion Graphics",
+        "Design Systems"
+      ]
+    },
+    "tools": [
+      "Adobe Illustrator",
+      "Photoshop",
+      "InDesign"
+    ],
+    "prerequisites": [
+      "Basic design principles"
+    ],
+    "certifications": [
+      "Adobe Certified Professional",
+      "Graphic Design Specialization"
+    ],
+    "learning_path": [
+      "Typography",
+      "Branding",
+      "Illustration",
+      "Layout"
+    ],
+    "projects": [
+      "Brand Identity",
+      "Poster Series"
+    ]
+  },
+  {
+    "id": "motion",
+    "name": "Motion Graphics Designer",
+    "category": "Design",
+    "description": "Creates animated visuals for digital media and marketing.",
+    "skills": {
+      "Beginner": [
+        "Design Basics",
+        "Typography",
+        "Animation Basics"
+      ],
+      "Intermediate": [
+        "After Effects",
+        "Illustration",
+        "Video Editing"
+      ],
+      "Advanced": [
+        "3D Motion",
+        "Compositing",
+        "Creative Direction"
+      ]
+    },
+    "tools": [
+      "After Effects",
+      "Premiere Pro",
+      "Cinema 4D"
+    ],
+    "prerequisites": [
+      "Basic design and animation"
+    ],
+    "certifications": [
+      "Adobe Motion Design",
+      "School of Motion"
+    ],
+    "learning_path": [
+      "Animation",
+      "After Effects",
+      "Video Editing",
+      "Compositing"
+    ],
+    "projects": [
+      "Product Promo",
+      "Animated Explainer"
+    ]
+  },
+  {
+    "id": "game",
+    "name": "Game Developer",
+    "category": "Game Development",
+    "description": "Builds interactive games, gameplay systems, and game experiences.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Math Basics",
+        "Git"
+      ],
+      "Intermediate": [
+        "Unity",
+        "C#",
+        "Game Physics"
+      ],
+      "Advanced": [
+        "Unreal Engine",
+        "Multiplayer",
+        "Optimization"
+      ]
+    },
+    "tools": [
+      "Unity",
+      "Unreal Engine",
+      "Blender"
+    ],
+    "prerequisites": [
+      "Basic programming"
+    ],
+    "certifications": [
+      "Unity Certified User",
+      "Epic Developer Learning"
+    ],
+    "learning_path": [
+      "C#",
+      "Unity",
+      "Game Physics",
+      "3D Development"
+    ],
+    "projects": [
+      "2D Platformer",
+      "Puzzle Game"
+    ]
+  },
+  {
+    "id": "game_designer",
+    "name": "Game Designer",
+    "category": "Game Development",
+    "description": "Designs gameplay mechanics, progression, and player experiences.",
+    "skills": {
+      "Beginner": [
+        "Game Basics",
+        "Storytelling",
+        "Problem Solving"
+      ],
+      "Intermediate": [
+        "Level Design",
+        "Game Mechanics",
+        "Prototyping"
+      ],
+      "Advanced": [
+        "Balancing",
+        "Monetization",
+        "Narrative Design"
+      ]
+    },
+    "tools": [
+      "Unity",
+      "Figma",
+      "Miro"
+    ],
+    "prerequisites": [
+      "Interest in games"
+    ],
+    "certifications": [
+      "Unity Learn",
+      "Game Design Specialization"
+    ],
+    "learning_path": [
+      "Game Mechanics",
+      "Level Design",
+      "Prototyping"
+    ],
+    "projects": [
+      "Puzzle Level",
+      "Game Design Document"
+    ]
+  },
+  {
+    "id": "3d_artist",
+    "name": "3D Artist",
+    "category": "Creative Technology",
+    "description": "Creates 3D models, materials, environments, and assets.",
+    "skills": {
+      "Beginner": [
+        "Drawing",
+        "3D Basics",
+        "Design"
+      ],
+      "Intermediate": [
+        "Blender",
+        "Texturing",
+        "Lighting"
+      ],
+      "Advanced": [
+        "Rigging",
+        "Animation",
+        "Rendering"
+      ]
+    },
+    "tools": [
+      "Blender",
+      "Substance 3D",
+      "Unreal Engine"
+    ],
+    "prerequisites": [
+      "Basic 3D concepts"
+    ],
+    "certifications": [
+      "Blender Fundamentals",
+      "Adobe Substance 3D"
+    ],
+    "learning_path": [
+      "Blender",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ],
+    "projects": [
+      "3D Room",
+      "Game Environment"
+    ]
+  },
+  {
+    "id": "arvr",
+    "name": "AR/VR Developer",
+    "category": "Extended Reality",
+    "description": "Builds immersive augmented and virtual reality applications.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "3D Basics",
+        "Math"
+      ],
+      "Intermediate": [
+        "Unity",
+        "C#",
+        "AR Foundation"
+      ],
+      "Advanced": [
+        "Spatial Computing",
+        "XR Interaction",
+        "Optimization"
+      ]
+    },
+    "tools": [
+      "Unity",
+      "AR Foundation",
+      "OpenXR"
+    ],
+    "prerequisites": [
+      "Basic programming and 3D"
+    ],
+    "certifications": [
+      "Unity XR Development",
+      "Meta XR Learning"
+    ],
+    "learning_path": [
+      "C#",
+      "Unity",
+      "AR/VR",
+      "3D Development"
+    ],
+    "projects": [
+      "AR Campus Tour",
+      "VR Training Demo"
+    ]
+  },
+  {
+    "id": "blockchain",
+    "name": "Blockchain Developer",
+    "category": "Blockchain",
+    "description": "Builds decentralized applications and blockchain-based services.",
+    "skills": {
+      "Beginner": [
+        "JavaScript",
+        "Programming",
+        "Cryptography Basics"
+      ],
+      "Intermediate": [
+        "Solidity",
+        "Web3",
+        "Smart Contracts"
+      ],
+      "Advanced": [
+        "DeFi",
+        "Security Auditing",
+        "Layer 2"
+      ]
+    },
+    "tools": [
+      "Ethereum",
+      "Hardhat",
+      "MetaMask"
+    ],
+    "prerequisites": [
+      "Programming fundamentals"
+    ],
+    "certifications": [
+      "Ethereum Developer Resources",
+      "Alchemy University"
+    ],
+    "learning_path": [
+      "JavaScript",
+      "Solidity",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "projects": [
+      "Token Contract",
+      "Decentralized Voting"
+    ]
+  },
+  {
+    "id": "smart_contract",
+    "name": "Smart Contract Developer",
+    "category": "Blockchain",
+    "description": "Develops and tests secure programs deployed on blockchains.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Blockchain Basics",
+        "Git"
+      ],
+      "Intermediate": [
+        "Solidity",
+        "Testing",
+        "Web3"
+      ],
+      "Advanced": [
+        "Contract Security",
+        "Gas Optimization",
+        "DeFi"
+      ]
+    },
+    "tools": [
+      "Hardhat",
+      "Foundry",
+      "Remix"
+    ],
+    "prerequisites": [
+      "Blockchain fundamentals"
+    ],
+    "certifications": [
+      "Alchemy University",
+      "Ethereum Developer Resources"
+    ],
+    "learning_path": [
+      "Solidity",
+      "Testing",
+      "Web3",
+      "Security"
+    ],
+    "projects": [
+      "Escrow Contract",
+      "NFT Marketplace Contract"
+    ]
+  },
+  {
+    "id": "fintech",
+    "name": "FinTech Developer",
+    "category": "Finance & Technology",
+    "description": "Builds software for payments, banking, lending, and financial services.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "SQL",
+        "Finance Basics"
+      ],
+      "Intermediate": [
+        "APIs",
+        "Security",
+        "Cloud"
+      ],
+      "Advanced": [
+        "Payments",
+        "Risk Systems",
+        "Distributed Systems"
+      ]
+    },
+    "tools": [
+      "Postman",
+      "AWS",
+      "GitHub"
+    ],
+    "prerequisites": [
+      "Basic programming and finance"
+    ],
+    "certifications": [
+      "FinTech Foundations",
+      "AWS Cloud Practitioner"
+    ],
+    "learning_path": [
+      "Python",
+      "SQL",
+      "APIs",
+      "Cloud",
+      "Security"
+    ],
+    "projects": [
+      "Payment Gateway",
+      "Expense Management"
+    ]
+  },
+  {
+    "id": "database",
+    "name": "Database Administrator",
+    "category": "Data & Infrastructure",
+    "description": "Maintains secure, reliable, and performant database systems.",
+    "skills": {
+      "Beginner": [
+        "SQL",
+        "Linux",
+        "Networking"
+      ],
+      "Intermediate": [
+        "PostgreSQL",
+        "Backup",
+        "Performance Tuning"
+      ],
+      "Advanced": [
+        "Replication",
+        "High Availability",
+        "Security"
+      ]
+    },
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "pgAdmin"
+    ],
+    "prerequisites": [
+      "SQL fundamentals"
+    ],
+    "certifications": [
+      "Microsoft Database Fundamentals",
+      "Oracle Database Training"
+    ],
+    "learning_path": [
+      "SQL",
+      "PostgreSQL",
+      "Backup",
+      "Performance"
+    ],
+    "projects": [
+      "Database Backup Plan",
+      "Query Optimization"
+    ]
+  },
+  {
+    "id": "database_dev",
+    "name": "Database Developer",
+    "category": "Data & Analytics",
+    "description": "Designs schemas, queries, stored procedures, and data services.",
+    "skills": {
+      "Beginner": [
+        "SQL",
+        "Database Basics",
+        "Programming"
+      ],
+      "Intermediate": [
+        "PostgreSQL",
+        "Data Modeling",
+        "ETL"
+      ],
+      "Advanced": [
+        "Performance Tuning",
+        "Distributed Databases",
+        "Security"
+      ]
+    },
+    "tools": [
+      "PostgreSQL",
+      "MySQL",
+      "DBeaver"
+    ],
+    "prerequisites": [
+      "SQL fundamentals"
+    ],
+    "certifications": [
+      "Oracle SQL Certification",
+      "Microsoft SQL Training"
+    ],
+    "learning_path": [
+      "SQL",
+      "Data Modeling",
+      "PostgreSQL",
+      "ETL"
+    ],
+    "projects": [
+      "Library Database",
+      "Sales Data Model"
+    ]
+  },
+  {
+    "id": "qa",
+    "name": "QA Engineer",
+    "category": "Software Quality",
+    "description": "Tests software to find defects and improve reliability.",
+    "skills": {
+      "Beginner": [
+        "Testing Basics",
+        "Programming Basics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Test Automation",
+        "API Testing",
+        "SQL"
+      ],
+      "Advanced": [
+        "Performance Testing",
+        "CI/CD",
+        "Test Strategy"
+      ]
+    },
+    "tools": [
+      "Selenium",
+      "Postman",
+      "Jira"
+    ],
+    "prerequisites": [
+      "Basic software knowledge"
+    ],
+    "certifications": [
+      "ISTQB Foundation",
+      "Google Software Testing"
+    ],
+    "learning_path": [
+      "Testing",
+      "Selenium",
+      "API Testing",
+      "SQL"
+    ],
+    "projects": [
+      "E-commerce Test Suite",
+      "API Test Plan"
+    ]
+  },
+  {
+    "id": "automation",
+    "name": "Test Automation Engineer",
+    "category": "Software Quality",
+    "description": "Automates functional and regression testing for software products.",
+    "skills": {
+      "Beginner": [
+        "Testing Basics",
+        "Programming",
+        "Git"
+      ],
+      "Intermediate": [
+        "Selenium",
+        "Playwright",
+        "API Testing"
+      ],
+      "Advanced": [
+        "CI/CD",
+        "Test Architecture",
+        "Performance Testing"
+      ]
+    },
+    "tools": [
+      "Selenium",
+      "Playwright",
+      "GitHub Actions"
+    ],
+    "prerequisites": [
+      "Testing fundamentals"
+    ],
+    "certifications": [
+      "ISTQB Foundation",
+      "Selenium Training"
+    ],
+    "learning_path": [
+      "Python",
+      "Selenium",
+      "Playwright",
+      "API Testing",
+      "CI/CD"
+    ],
+    "projects": [
+      "Automated Regression Suite",
+      "Browser Test Framework"
+    ]
+  },
+  {
+    "id": "software_arch",
+    "name": "Software Architect",
+    "category": "Software Engineering",
+    "description": "Designs scalable software structures and technical standards.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Git",
+        "Software Design"
+      ],
+      "Intermediate": [
+        "Architecture Patterns",
+        "APIs",
+        "Databases"
+      ],
+      "Advanced": [
+        "Distributed Systems",
+        "Scalability",
+        "Cloud Architecture"
+      ]
+    },
+    "tools": [
+      "Draw.io",
+      "AWS",
+      "Docker"
+    ],
+    "prerequisites": [
+      "Professional development experience"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Microsoft Azure Architecture"
+    ],
+    "learning_path": [
+      "Software Design",
+      "APIs",
+      "Distributed Systems",
+      "Cloud"
+    ],
+    "projects": [
+      "Scalable E-commerce Architecture",
+      "Microservice Blueprint"
+    ]
+  },
+  {
+    "id": "solutions_arch",
+    "name": "Solutions Architect",
+    "category": "Cloud & Infrastructure",
+    "description": "Designs end-to-end technology solutions aligned with business needs.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Cloud Basics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "AWS",
+        "Azure",
+        "Architecture Patterns"
+      ],
+      "Advanced": [
+        "Distributed Systems",
+        "Security",
+        "Cost Optimization"
+      ]
+    },
+    "tools": [
+      "AWS",
+      "Azure",
+      "Terraform"
+    ],
+    "prerequisites": [
+      "Cloud fundamentals"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Azure Solutions Architect"
+    ],
+    "learning_path": [
+      "Cloud",
+      "Architecture",
+      "Security",
+      "Terraform"
+    ],
+    "projects": [
+      "Cloud Reference Architecture",
+      "Migration Strategy"
+    ]
+  },
+  {
+    "id": "network",
+    "name": "Network Engineer",
+    "category": "Networking",
+    "description": "Designs and maintains reliable computer networks.",
+    "skills": {
+      "Beginner": [
+        "Networking Basics",
+        "Linux",
+        "Troubleshooting"
+      ],
+      "Intermediate": [
+        "Routing",
+        "Switching",
+        "Network Security"
+      ],
+      "Advanced": [
+        "SD-WAN",
+        "Automation",
+        "Cloud Networking"
+      ]
+    },
+    "tools": [
+      "Cisco Packet Tracer",
+      "Wireshark",
+      "Cisco IOS"
+    ],
+    "prerequisites": [
+      "Basic networking"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "CompTIA Network+"
+    ],
+    "learning_path": [
+      "Networking",
+      "Routing",
+      "Switching",
+      "Linux"
+    ],
+    "projects": [
+      "Campus Network",
+      "VPN Design"
+    ]
+  },
+  {
+    "id": "network_security",
+    "name": "Network Security Engineer",
+    "category": "Cybersecurity",
+    "description": "Secures enterprise networks against unauthorized access and attacks.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "Firewalls",
+        "VPN",
+        "IDS/IPS"
+      ],
+      "Advanced": [
+        "Zero Trust",
+        "Network Automation",
+        "Cloud Security"
+      ]
+    },
+    "tools": [
+      "Wireshark",
+      "pfSense",
+      "Cisco"
+    ],
+    "prerequisites": [
+      "Networking fundamentals"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Cisco CyberOps"
+    ],
+    "learning_path": [
+      "Networking",
+      "Firewalls",
+      "VPN",
+      "IDS/IPS"
+    ],
+    "projects": [
+      "Secure Network Lab",
+      "Firewall Policy"
+    ]
+  },
+  {
+    "id": "system_admin",
+    "name": "Systems Administrator",
+    "category": "IT & Infrastructure",
+    "description": "Manages servers, operating systems, users, and enterprise IT services.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Networking",
+        "Hardware Basics"
+      ],
+      "Intermediate": [
+        "Windows Server",
+        "Bash",
+        "Virtualization"
+      ],
+      "Advanced": [
+        "Automation",
+        "Monitoring",
+        "Security"
+      ]
+    },
+    "tools": [
+      "Linux",
+      "PowerShell",
+      "VMware"
+    ],
+    "prerequisites": [
+      "Basic IT support"
+    ],
+    "certifications": [
+      "CompTIA Server+",
+      "Linux Foundation Training"
+    ],
+    "learning_path": [
+      "Linux",
+      "Networking",
+      "Bash",
+      "Virtualization"
+    ],
+    "projects": [
+      "Linux Server Setup",
+      "Monitoring Stack"
+    ]
+  },
+  {
+    "id": "site_reliability",
+    "name": "Site Reliability Engineer",
+    "category": "Cloud & Infrastructure",
+    "description": "Improves availability, performance, and operational reliability of services.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Git",
+        "Networking"
+      ],
+      "Intermediate": [
+        "Monitoring",
+        "Docker",
+        "CI/CD"
+      ],
+      "Advanced": [
+        "Kubernetes",
+        "SLOs",
+        "Incident Management"
+      ]
+    },
+    "tools": [
+      "Prometheus",
+      "Grafana",
+      "Kubernetes"
+    ],
+    "prerequisites": [
+      "Linux and cloud basics"
+    ],
+    "certifications": [
+      "Google SRE Resources",
+      "CKA"
+    ],
+    "learning_path": [
+      "Linux",
+      "Monitoring",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "projects": [
+      "Service Monitoring",
+      "Incident Runbook"
+    ]
+  },
+  {
+    "id": "platform",
+    "name": "Platform Engineer",
+    "category": "Cloud & Infrastructure",
+    "description": "Builds internal platforms that help developers ship software efficiently.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Git",
+        "Cloud Basics"
+      ],
+      "Intermediate": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "Advanced": [
+        "Platform APIs",
+        "Infrastructure as Code",
+        "Observability"
+      ]
+    },
+    "tools": [
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "prerequisites": [
+      "DevOps fundamentals"
+    ],
+    "certifications": [
+      "CKA",
+      "Terraform Associate"
+    ],
+    "learning_path": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "projects": [
+      "Developer Platform",
+      "Self-Service Deployment"
+    ]
+  },
+  {
+    "id": "embedded",
+    "name": "Embedded Systems Engineer",
+    "category": "Embedded & IoT",
+    "description": "Develops software and electronics for resource-constrained devices.",
+    "skills": {
+      "Beginner": [
+        "C",
+        "Electronics Basics",
+        "Debugging"
+      ],
+      "Intermediate": [
+        "Microcontrollers",
+        "C++",
+        "RTOS"
+      ],
+      "Advanced": [
+        "Embedded Linux",
+        "IoT Protocols",
+        "Optimization"
+      ]
+    },
+    "tools": [
+      "Arduino",
+      "STM32",
+      "JTAG"
+    ],
+    "prerequisites": [
+      "Basic electronics and programming"
+    ],
+    "certifications": [
+      "ARM Education",
+      "Embedded Systems Specialization"
+    ],
+    "learning_path": [
+      "C",
+      "C++",
+      "Microcontrollers",
+      "RTOS"
+    ],
+    "projects": [
+      "Smart Sensor",
+      "Motor Controller"
+    ]
+  },
+  {
+    "id": "iot",
+    "name": "IoT Engineer",
+    "category": "Embedded & IoT",
+    "description": "Connects sensors, devices, and cloud services into intelligent systems.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Networking",
+        "Electronics Basics"
+      ],
+      "Intermediate": [
+        "MQTT",
+        "Microcontrollers",
+        "Cloud IoT"
+      ],
+      "Advanced": [
+        "Edge Computing",
+        "IoT Security",
+        "Device Management"
+      ]
+    },
+    "tools": [
+      "Arduino",
+      "AWS IoT",
+      "Raspberry Pi"
+    ],
+    "prerequisites": [
+      "Basic electronics and networking"
+    ],
+    "certifications": [
+      "AWS IoT Training",
+      "Microsoft IoT Learning"
+    ],
+    "learning_path": [
+      "Python",
+      "MQTT",
+      "IoT",
+      "Cloud",
+      "Edge Computing"
+    ],
+    "projects": [
+      "Smart Home",
+      "Environmental Monitor"
+    ]
+  },
+  {
+    "id": "robotics",
+    "name": "Robotics Engineer",
+    "category": "Robotics",
+    "description": "Develops robotic systems combining software, electronics, and mechanics.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "C++",
+        "Math"
+      ],
+      "Intermediate": [
+        "ROS",
+        "Computer Vision",
+        "Control Systems"
+      ],
+      "Advanced": [
+        "SLAM",
+        "Motion Planning",
+        "Robot Learning"
+      ]
+    },
+    "tools": [
+      "ROS",
+      "Gazebo",
+      "OpenCV"
+    ],
+    "prerequisites": [
+      "Programming and basic mechanics"
+    ],
+    "certifications": [
+      "ROS Training",
+      "Robotics Specialization"
+    ],
+    "learning_path": [
+      "Python",
+      "C++",
+      "ROS",
+      "Computer Vision",
+      "Control Systems"
+    ],
+    "projects": [
+      "Line Following Robot",
+      "Warehouse Robot"
+    ]
+  },
+  {
+    "id": "automation_engineer",
+    "name": "Automation Engineer",
+    "category": "Engineering",
+    "description": "Automates industrial and business processes using control and software systems.",
+    "skills": {
+      "Beginner": [
+        "Programming Basics",
+        "Electronics",
+        "Problem Solving"
+      ],
+      "Intermediate": [
+        "PLC",
+        "SCADA",
+        "Control Systems"
+      ],
+      "Advanced": [
+        "Industrial Networking",
+        "Robotics",
+        "Process Optimization"
+      ]
+    },
+    "tools": [
+      "Siemens TIA Portal",
+      "SCADA",
+      "MATLAB"
+    ],
+    "prerequisites": [
+      "Basic electronics"
+    ],
+    "certifications": [
+      "PLC Certification",
+      "ISA Automation Training"
+    ],
+    "learning_path": [
+      "PLC",
+      "SCADA",
+      "Control Systems",
+      "Industrial Networking"
+    ],
+    "projects": [
+      "Automated Conveyor",
+      "SCADA Dashboard"
+    ]
+  },
+  {
+    "id": "data_visualization",
+    "name": "Data Visualization Specialist",
+    "category": "Data & Analytics",
+    "description": "Transforms complex datasets into clear and actionable visual stories.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Design Basics"
+      ],
+      "Intermediate": [
+        "Power BI",
+        "Tableau",
+        "SQL"
+      ],
+      "Advanced": [
+        "Dashboard Design",
+        "Storytelling",
+        "Advanced Analytics"
+      ]
+    },
+    "tools": [
+      "Tableau",
+      "Power BI",
+      "Looker Studio"
+    ],
+    "prerequisites": [
+      "Basic data analysis"
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist",
+      "Microsoft Power BI"
+    ],
+    "learning_path": [
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Data Storytelling"
+    ],
+    "projects": [
+      "Executive Dashboard",
+      "Public Data Story"
+    ]
+  },
+  {
+    "id": "bi",
+    "name": "Business Intelligence Developer",
+    "category": "Data & Analytics",
+    "description": "Builds dashboards, reporting systems, and analytical data models.",
+    "skills": {
+      "Beginner": [
+        "SQL",
+        "Excel",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "Power BI",
+        "Data Modeling",
+        "ETL"
+      ],
+      "Advanced": [
+        "DAX",
+        "Data Warehousing",
+        "BI Architecture"
+      ]
+    },
+    "tools": [
+      "Power BI",
+      "SQL Server",
+      "SSIS"
+    ],
+    "prerequisites": [
+      "SQL fundamentals"
+    ],
+    "certifications": [
+      "Microsoft Power BI",
+      "Microsoft Fabric"
+    ],
+    "learning_path": [
+      "SQL",
+      "Power BI",
+      "DAX",
+      "ETL",
+      "Data Modeling"
+    ],
+    "projects": [
+      "Sales BI System",
+      "Finance Dashboard"
+    ]
+  },
+  {
+    "id": "quant",
+    "name": "Quantitative Analyst",
+    "category": "Finance & Analytics",
+    "description": "Uses mathematics, statistics, and programming to analyze financial markets.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Statistics",
+        "Calculus"
+      ],
+      "Intermediate": [
+        "Pandas",
+        "NumPy",
+        "Financial Modeling"
+      ],
+      "Advanced": [
+        "Time Series",
+        "Optimization",
+        "Algorithmic Trading"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Jupyter",
+      "QuantLib"
+    ],
+    "prerequisites": [
+      "Strong mathematics"
+    ],
+    "certifications": [
+      "CFA Program",
+      "Quantitative Finance Courses"
+    ],
+    "learning_path": [
+      "Python",
+      "Statistics",
+      "NumPy",
+      "Time Series",
+      "Financial Modeling"
+    ],
+    "projects": [
+      "Portfolio Optimizer",
+      "Market Signal Model"
+    ]
+  },
+  {
+    "id": "risk",
+    "name": "Risk Analyst",
+    "category": "Finance & Analytics",
+    "description": "Identifies, measures, and communicates financial and operational risks.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Finance Basics"
+      ],
+      "Intermediate": [
+        "Risk Modeling",
+        "SQL",
+        "Data Visualization"
+      ],
+      "Advanced": [
+        "Stress Testing",
+        "Monte Carlo",
+        "Risk Strategy"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "Python",
+      "Power BI"
+    ],
+    "prerequisites": [
+      "Basic finance"
+    ],
+    "certifications": [
+      "FRM",
+      "CFA Program"
+    ],
+    "learning_path": [
+      "Statistics",
+      "Risk Modeling",
+      "SQL",
+      "Python"
+    ],
+    "projects": [
+      "Credit Risk Model",
+      "Risk Dashboard"
+    ]
+  },
+  {
+    "id": "accounting",
+    "name": "Accounting Analyst",
+    "category": "Finance & Analytics",
+    "description": "Supports financial reporting, reconciliation, and accounting analysis.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Accounting Basics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Financial Reporting",
+        "SQL",
+        "ERP Basics"
+      ],
+      "Advanced": [
+        "Forecasting",
+        "Controls",
+        "Automation"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "SAP",
+      "Power BI"
+    ],
+    "prerequisites": [
+      "Basic accounting"
+    ],
+    "certifications": [
+      "ACCA",
+      "Microsoft Excel Certification"
+    ],
+    "learning_path": [
+      "Excel",
+      "Accounting",
+      "Financial Reporting",
+      "Power BI"
+    ],
+    "projects": [
+      "Expense Reconciliation",
+      "Financial Report"
+    ]
+  },
+  {
+    "id": "hr_analyst",
+    "name": "People Analytics Analyst",
+    "category": "Human Resources",
+    "description": "Uses workforce data to improve hiring, retention, and employee planning.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Power BI",
+        "HR Analytics"
+      ],
+      "Advanced": [
+        "Predictive Analytics",
+        "Workforce Planning",
+        "Experimentation"
+      ]
+    },
+    "tools": [
+      "Power BI",
+      "Excel",
+      "HRIS"
+    ],
+    "prerequisites": [
+      "Basic statistics"
+    ],
+    "certifications": [
+      "People Analytics",
+      "Google Data Analytics"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "HR Analytics"
+    ],
+    "projects": [
+      "Attrition Dashboard",
+      "Hiring Funnel"
+    ]
+  },
+  {
+    "id": "hr",
+    "name": "HR Specialist",
+    "category": "Human Resources",
+    "description": "Supports recruitment, employee development, and people operations.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Organization",
+        "Excel"
+      ],
+      "Intermediate": [
+        "Recruiting",
+        "HRIS",
+        "Employee Relations"
+      ],
+      "Advanced": [
+        "Workforce Planning",
+        "People Analytics",
+        "Policy"
+      ]
+    },
+    "tools": [
+      "Workday",
+      "Excel",
+      "LinkedIn"
+    ],
+    "prerequisites": [
+      "Basic HR knowledge"
+    ],
+    "certifications": [
+      "SHRM Essentials",
+      "Human Resources Foundations"
+    ],
+    "learning_path": [
+      "Recruiting",
+      "HRIS",
+      "Communication",
+      "People Analytics"
+    ],
+    "projects": [
+      "Onboarding Program",
+      "Hiring Tracker"
+    ]
+  },
+  {
+    "id": "technical_writer",
+    "name": "Technical Writer",
+    "category": "Writing & Documentation",
+    "description": "Creates clear technical documentation for products, developers, and users.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "Research",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Markdown",
+        "Documentation Tools",
+        "APIs"
+      ],
+      "Advanced": [
+        "Information Architecture",
+        "Docs-as-Code",
+        "Developer Experience"
+      ]
+    },
+    "tools": [
+      "GitHub",
+      "Markdown",
+      "Notion"
+    ],
+    "prerequisites": [
+      "Strong writing skills"
+    ],
+    "certifications": [
+      "Google Technical Writing",
+      "Write the Docs"
+    ],
+    "learning_path": [
+      "Writing",
+      "Markdown",
+      "APIs",
+      "Git",
+      "Documentation"
+    ],
+    "projects": [
+      "API Documentation",
+      "Product User Guide"
+    ]
+  },
+  {
+    "id": "developer_advocate",
+    "name": "Developer Advocate",
+    "category": "Developer Relations",
+    "description": "Helps developers adopt technologies through education, content, and community.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Writing",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Public Speaking",
+        "Content Creation",
+        "APIs"
+      ],
+      "Advanced": [
+        "Developer Relations",
+        "Community Strategy",
+        "Technical Marketing"
+      ]
+    },
+    "tools": [
+      "GitHub",
+      "YouTube",
+      "Dev.to"
+    ],
+    "prerequisites": [
+      "Technical foundation"
+    ],
+    "certifications": [
+      "Developer Relations Courses",
+      "Google Developer Training"
+    ],
+    "learning_path": [
+      "Programming",
+      "APIs",
+      "Writing",
+      "Public Speaking"
+    ],
+    "projects": [
+      "Developer Workshop",
+      "API Tutorial Series"
+    ]
+  },
+  {
+    "id": "research_scientist",
+    "name": "AI Research Scientist",
+    "category": "Artificial Intelligence",
+    "description": "Investigates new algorithms and methods for intelligent systems.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Linear Algebra",
+        "Probability"
+      ],
+      "Intermediate": [
+        "Deep Learning",
+        "Optimization",
+        "Research Methods"
+      ],
+      "Advanced": [
+        "Advanced ML",
+        "Generative Models",
+        "Research Publishing"
+      ]
+    },
+    "tools": [
+      "PyTorch",
+      "JAX",
+      "LaTeX"
+    ],
+    "prerequisites": [
+      "Strong mathematics"
+    ],
+    "certifications": [
+      "DeepLearning.AI",
+      "Machine Learning Specialization"
+    ],
+    "learning_path": [
+      "Python",
+      "Deep Learning",
+      "Optimization",
+      "Research Methods"
+    ],
+    "projects": [
+      "Model Research",
+      "Vision Benchmark"
+    ]
+  },
+  {
+    "id": "research_engineer",
+    "name": "Research Engineer",
+    "category": "Research & Engineering",
+    "description": "Turns research ideas into reproducible computational systems and experiments.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Git",
+        "Mathematics"
+      ],
+      "Intermediate": [
+        "PyTorch",
+        "Experiment Tracking",
+        "Data Pipelines"
+      ],
+      "Advanced": [
+        "Distributed Training",
+        "Optimization",
+        "Research Engineering"
+      ]
+    },
+    "tools": [
+      "PyTorch",
+      "JAX",
+      "Weights & Biases"
+    ],
+    "prerequisites": [
+      "Programming and math"
+    ],
+    "certifications": [
+      "Machine Learning Specialization",
+      "Deep Learning Specialization"
+    ],
+    "learning_path": [
+      "Python",
+      "PyTorch",
+      "Experiment Tracking",
+      "Distributed Training"
+    ],
+    "projects": [
+      "Research Pipeline",
+      "Model Benchmark"
+    ]
+  },
+  {
+    "id": "bioinformatics",
+    "name": "Bioinformatics Analyst",
+    "category": "Life Science & Data",
+    "description": "Analyzes biological data using computational and statistical methods.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Biology Basics",
+        "Statistics"
+      ],
+      "Intermediate": [
+        "Biopython",
+        "SQL",
+        "Data Analysis"
+      ],
+      "Advanced": [
+        "Genomics",
+        "Machine Learning",
+        "Workflow Automation"
+      ]
+    },
+    "tools": [
+      "Jupyter",
+      "Biopython",
+      "Galaxy"
+    ],
+    "prerequisites": [
+      "Basic biology and programming"
+    ],
+    "certifications": [
+      "Bioinformatics Specialization",
+      "Genomics Courses"
+    ],
+    "learning_path": [
+      "Python",
+      "Statistics",
+      "Biopython",
+      "SQL"
+    ],
+    "projects": [
+      "DNA Sequence Analysis",
+      "Gene Expression Study"
+    ]
+  },
+  {
+    "id": "health_data",
+    "name": "Health Data Analyst",
+    "category": "Healthcare & Data",
+    "description": "Analyzes healthcare data to support operations, quality, and research.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Python",
+        "Data Visualization"
+      ],
+      "Advanced": [
+        "Healthcare Analytics",
+        "Predictive Modeling",
+        "Privacy"
+      ]
+    },
+    "tools": [
+      "Power BI",
+      "Python",
+      "SQL"
+    ],
+    "prerequisites": [
+      "Basic statistics"
+    ],
+    "certifications": [
+      "Google Data Analytics",
+      "Healthcare Analytics Courses"
+    ],
+    "learning_path": [
+      "SQL",
+      "Python",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "projects": [
+      "Hospital Dashboard",
+      "Readmission Analysis"
+    ]
+  },
+  {
+    "id": "gis",
+    "name": "GIS Analyst",
+    "category": "Geospatial Technology",
+    "description": "Analyzes geographic data to support planning, mapping, and decisions.",
+    "skills": {
+      "Beginner": [
+        "Geography",
+        "Excel",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "QGIS",
+        "Spatial Analysis",
+        "SQL"
+      ],
+      "Advanced": [
+        "Remote Sensing",
+        "Geospatial Modeling",
+        "Automation"
+      ]
+    },
+    "tools": [
+      "QGIS",
+      "ArcGIS",
+      "PostGIS"
+    ],
+    "prerequisites": [
+      "Basic geography"
+    ],
+    "certifications": [
+      "Esri GIS Fundamentals",
+      "QGIS Training"
+    ],
+    "learning_path": [
+      "QGIS",
+      "SQL",
+      "Spatial Analysis",
+      "Mapping"
+    ],
+    "projects": [
+      "City Mapping",
+      "Flood Risk Map"
+    ]
+  },
+  {
+    "id": "geospatial",
+    "name": "Geospatial Data Scientist",
+    "category": "Geospatial Technology",
+    "description": "Combines data science with location intelligence and spatial modeling.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Statistics",
+        "Geography"
+      ],
+      "Intermediate": [
+        "GeoPandas",
+        "GIS",
+        "Machine Learning"
+      ],
+      "Advanced": [
+        "Remote Sensing",
+        "Spatial ML",
+        "Cloud Geospatial"
+      ]
+    },
+    "tools": [
+      "Python",
+      "QGIS",
+      "Google Earth Engine"
+    ],
+    "prerequisites": [
+      "Python and geography basics"
+    ],
+    "certifications": [
+      "Google Earth Engine Training",
+      "Geospatial Data Science"
+    ],
+    "learning_path": [
+      "Python",
+      "GeoPandas",
+      "GIS",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Land Cover Classification",
+      "Mobility Analysis"
+    ]
+  },
+  {
+    "id": "energy",
+    "name": "Energy Data Analyst",
+    "category": "Energy & Sustainability",
+    "description": "Analyzes energy consumption, generation, and efficiency data.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "Python",
+        "SQL",
+        "Time Series"
+      ],
+      "Advanced": [
+        "Forecasting",
+        "Optimization",
+        "Energy Modeling"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Power BI",
+      "Jupyter"
+    ],
+    "prerequisites": [
+      "Basic mathematics"
+    ],
+    "certifications": [
+      "Energy Analytics Courses",
+      "Google Data Analytics"
+    ],
+    "learning_path": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Forecasting"
+    ],
+    "projects": [
+      "Solar Forecast",
+      "Energy Consumption Dashboard"
+    ]
+  },
+  {
+    "id": "sustainability",
+    "name": "Sustainability Analyst",
+    "category": "Environment & Sustainability",
+    "description": "Uses data and reporting to improve environmental and sustainability performance.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Research",
+        "Communication"
+      ],
+      "Intermediate": [
+        "ESG Reporting",
+        "Data Analysis",
+        "Carbon Accounting"
+      ],
+      "Advanced": [
+        "Sustainability Strategy",
+        "Life Cycle Analysis",
+        "Climate Data"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "Power BI",
+      "GHG Protocol"
+    ],
+    "prerequisites": [
+      "Basic sustainability knowledge"
+    ],
+    "certifications": [
+      "GRI Training",
+      "Sustainability Foundations"
+    ],
+    "learning_path": [
+      "ESG",
+      "Data Analysis",
+      "Carbon Accounting",
+      "Reporting"
+    ],
+    "projects": [
+      "Carbon Footprint Dashboard",
+      "ESG Report"
+    ]
+  },
+  {
+    "id": "environmental",
+    "name": "Environmental Data Scientist",
+    "category": "Environment & Sustainability",
+    "description": "Uses data and modeling to understand environmental systems and risks.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "Statistics",
+        "Environmental Science"
+      ],
+      "Intermediate": [
+        "GIS",
+        "Data Visualization",
+        "Machine Learning"
+      ],
+      "Advanced": [
+        "Climate Modeling",
+        "Remote Sensing",
+        "Spatial ML"
+      ]
+    },
+    "tools": [
+      "Python",
+      "QGIS",
+      "Jupyter"
+    ],
+    "prerequisites": [
+      "Environmental science basics"
+    ],
+    "certifications": [
+      "Earth Data Analytics",
+      "GIS Fundamentals"
+    ],
+    "learning_path": [
+      "Python",
+      "GIS",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Air Quality Model",
+      "Climate Risk Map"
+    ]
+  },
+  {
+    "id": "technical_pm",
+    "name": "Technical Program Manager",
+    "category": "Product & Management",
+    "description": "Coordinates complex technical programs across engineering teams.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Planning",
+        "Technical Basics"
+      ],
+      "Intermediate": [
+        "Agile",
+        "Risk Management",
+        "Architecture Basics"
+      ],
+      "Advanced": [
+        "Program Strategy",
+        "Leadership",
+        "Dependency Management"
+      ]
+    },
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Miro"
+    ],
+    "prerequisites": [
+      "Project coordination"
+    ],
+    "certifications": [
+      "PMI CAPM",
+      "Google Project Management"
+    ],
+    "learning_path": [
+      "Agile",
+      "Planning",
+      "Risk Management",
+      "Technical Communication"
+    ],
+    "projects": [
+      "Platform Migration Program",
+      "Release Plan"
+    ]
+  },
+  {
+    "id": "scrum_master",
+    "name": "Scrum Master",
+    "category": "Product & Management",
+    "description": "Facilitates agile teams and improves delivery processes.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Planning",
+        "Teamwork"
+      ],
+      "Intermediate": [
+        "Scrum",
+        "Agile Metrics",
+        "Facilitation"
+      ],
+      "Advanced": [
+        "Agile Coaching",
+        "Organizational Change",
+        "Leadership"
+      ]
+    },
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Miro"
+    ],
+    "prerequisites": [
+      "Teamwork fundamentals"
+    ],
+    "certifications": [
+      "Professional Scrum Master",
+      "ICAgile Agile Fundamentals"
+    ],
+    "learning_path": [
+      "Scrum",
+      "Agile",
+      "Facilitation",
+      "Metrics"
+    ],
+    "projects": [
+      "Sprint Improvement Plan",
+      "Team Workflow"
+    ]
+  },
+  {
+    "id": "sales_engineer",
+    "name": "Sales Engineer",
+    "category": "Business & Technology",
+    "description": "Combines technical expertise with customer-facing solution selling.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Technical Basics",
+        "Presentation"
+      ],
+      "Intermediate": [
+        "Solution Design",
+        "APIs",
+        "Product Demos"
+      ],
+      "Advanced": [
+        "Enterprise Architecture",
+        "Negotiation",
+        "Technical Strategy"
+      ]
+    },
+    "tools": [
+      "Salesforce",
+      "Postman",
+      "Figma"
+    ],
+    "prerequisites": [
+      "Basic technology knowledge"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Salesforce Associate"
+    ],
+    "learning_path": [
+      "APIs",
+      "Presentation",
+      "Solution Design",
+      "Communication"
+    ],
+    "projects": [
+      "Technical Demo",
+      "Solution Proposal"
+    ]
+  },
+  {
+    "id": "solutions_consultant",
+    "name": "Solutions Consultant",
+    "category": "Business & Technology",
+    "description": "Maps customer requirements to practical technology solutions.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Problem Solving",
+        "Technical Basics"
+      ],
+      "Intermediate": [
+        "Requirements Analysis",
+        "APIs",
+        "Cloud"
+      ],
+      "Advanced": [
+        "Solution Architecture",
+        "Consulting",
+        "Integration"
+      ]
+    },
+    "tools": [
+      "Figma",
+      "Postman",
+      "AWS"
+    ],
+    "prerequisites": [
+      "Basic IT knowledge"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "ITIL Foundation"
+    ],
+    "learning_path": [
+      "Requirements",
+      "APIs",
+      "Cloud",
+      "Solution Architecture"
+    ],
+    "projects": [
+      "Customer Solution Plan",
+      "Integration Blueprint"
+    ]
+  },
+  {
+    "id": "support_engineer",
+    "name": "Technical Support Engineer",
+    "category": "IT & Infrastructure",
+    "description": "Diagnoses technical issues and helps users keep systems working.",
+    "skills": {
+      "Beginner": [
+        "Networking Basics",
+        "Communication",
+        "Troubleshooting"
+      ],
+      "Intermediate": [
+        "Linux",
+        "SQL",
+        "APIs"
+      ],
+      "Advanced": [
+        "Automation",
+        "Cloud Support",
+        "Incident Management"
+      ]
+    },
+    "tools": [
+      "Zendesk",
+      "Postman",
+      "Linux"
+    ],
+    "prerequisites": [
+      "Basic IT knowledge"
+    ],
+    "certifications": [
+      "CompTIA A+",
+      "Google IT Support"
+    ],
+    "learning_path": [
+      "Networking",
+      "Linux",
+      "SQL",
+      "Troubleshooting"
+    ],
+    "projects": [
+      "Support Knowledge Base",
+      "Incident Dashboard"
+    ]
+  },
+  {
+    "id": "it_support",
+    "name": "IT Support Specialist",
+    "category": "IT & Infrastructure",
+    "description": "Provides hands-on support for computers, software, accounts, and networks.",
+    "skills": {
+      "Beginner": [
+        "Hardware Basics",
+        "Communication",
+        "Troubleshooting"
+      ],
+      "Intermediate": [
+        "Windows",
+        "Networking",
+        "Ticketing"
+      ],
+      "Advanced": [
+        "System Administration",
+        "Security",
+        "Automation"
+      ]
+    },
+    "tools": [
+      "Windows",
+      "ServiceNow",
+      "PowerShell"
+    ],
+    "prerequisites": [
+      "Basic computer literacy"
+    ],
+    "certifications": [
+      "Google IT Support",
+      "CompTIA A+"
+    ],
+    "learning_path": [
+      "Hardware",
+      "Networking",
+      "Windows",
+      "Troubleshooting"
+    ],
+    "projects": [
+      "Help Desk Workflow",
+      "PC Deployment Guide"
+    ]
+  },
+  {
+    "id": "cloud_security",
+    "name": "Cloud Security Engineer",
+    "category": "Cybersecurity",
+    "description": "Secures cloud infrastructure, identities, workloads, and data.",
+    "skills": {
+      "Beginner": [
+        "Cloud Basics",
+        "Networking",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "IAM",
+        "AWS/Azure Security",
+        "Logging"
+      ],
+      "Advanced": [
+        "Zero Trust",
+        "Container Security",
+        "Threat Detection"
+      ]
+    },
+    "tools": [
+      "AWS",
+      "Azure",
+      "Terraform",
+      "Wiz"
+    ],
+    "prerequisites": [
+      "Cloud fundamentals"
+    ],
+    "certifications": [
+      "AWS Security Specialty",
+      "Azure Security Engineer"
+    ],
+    "learning_path": [
+      "Cloud",
+      "IAM",
+      "Security",
+      "Terraform"
+    ],
+    "projects": [
+      "Cloud Security Baseline",
+      "IAM Review"
+    ]
+  },
+  {
+    "id": "appsec",
+    "name": "Application Security Engineer",
+    "category": "Cybersecurity",
+    "description": "Finds and prevents security weaknesses in software applications.",
+    "skills": {
+      "Beginner": [
+        "Programming",
+        "Web Basics",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "OWASP",
+        "SAST",
+        "DAST"
+      ],
+      "Advanced": [
+        "Threat Modeling",
+        "Secure SDLC",
+        "Security Automation"
+      ]
+    },
+    "tools": [
+      "Burp Suite",
+      "Semgrep",
+      "GitHub"
+    ],
+    "prerequisites": [
+      "Web development basics"
+    ],
+    "certifications": [
+      "OWASP Learning",
+      "CompTIA Security+"
+    ],
+    "learning_path": [
+      "OWASP",
+      "SAST",
+      "DAST",
+      "Threat Modeling"
+    ],
+    "projects": [
+      "Secure Code Review",
+      "Web Security Lab"
+    ]
+  },
+  {
+    "id": "forensics",
+    "name": "Digital Forensics Analyst",
+    "category": "Cybersecurity",
+    "description": "Examines digital evidence to investigate security incidents.",
+    "skills": {
+      "Beginner": [
+        "Linux",
+        "Networking",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "Disk Forensics",
+        "Log Analysis",
+        "Incident Response"
+      ],
+      "Advanced": [
+        "Memory Forensics",
+        "Malware Analysis",
+        "Evidence Handling"
+      ]
+    },
+    "tools": [
+      "Autopsy",
+      "Volatility",
+      "Wireshark"
+    ],
+    "prerequisites": [
+      "Security fundamentals"
+    ],
+    "certifications": [
+      "EC-Council CHFI",
+      "SANS Forensics"
+    ],
+    "learning_path": [
+      "Linux",
+      "Incident Response",
+      "Forensics",
+      "Log Analysis"
+    ],
+    "projects": [
+      "Disk Investigation",
+      "Incident Timeline"
+    ]
+  },
+  {
+    "id": "penetration",
+    "name": "Penetration Tester",
+    "category": "Cybersecurity",
+    "description": "Assesses systems for exploitable security weaknesses.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "Web Testing",
+        "Reconnaissance",
+        "Scripting"
+      ],
+      "Advanced": [
+        "Exploit Development",
+        "Cloud Pentesting",
+        "Reporting"
+      ]
+    },
+    "tools": [
+      "Burp Suite",
+      "Nmap",
+      "Kali Linux"
+    ],
+    "prerequisites": [
+      "Networking fundamentals"
+    ],
+    "certifications": [
+      "eJPT",
+      "CompTIA PenTest+"
+    ],
+    "learning_path": [
+      "Linux",
+      "Networking",
+      "Web Security",
+      "Python"
+    ],
+    "projects": [
+      "Web Security Assessment",
+      "Network Pentest Lab"
+    ]
+  },
+  {
+    "id": "ethical_hacker",
+    "name": "Ethical Hacker",
+    "category": "Cybersecurity",
+    "description": "Performs authorized security assessments to improve defenses.",
+    "skills": {
+      "Beginner": [
+        "Networking",
+        "Linux",
+        "Security Basics"
+      ],
+      "Intermediate": [
+        "Reconnaissance",
+        "Web Security",
+        "Scripting"
+      ],
+      "Advanced": [
+        "Exploitation",
+        "Privilege Escalation",
+        "Reporting"
+      ]
+    },
+    "tools": [
+      "Kali Linux",
+      "Nmap",
+      "Burp Suite"
+    ],
+    "prerequisites": [
+      "Security fundamentals"
+    ],
+    "certifications": [
+      "CEH",
+      "eJPT"
+    ],
+    "learning_path": [
+      "Linux",
+      "Networking",
+      "Web Security",
+      "Python"
+    ],
+    "projects": [
+      "Vulnerability Assessment",
+      "Security Lab"
+    ]
+  },
+  {
+    "id": "data_governance",
+    "name": "Data Governance Specialist",
+    "category": "Data & Analytics",
+    "description": "Establishes standards for data quality, ownership, access, and use.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Communication",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "Data Quality",
+        "Metadata",
+        "SQL"
+      ],
+      "Advanced": [
+        "Data Governance",
+        "Privacy",
+        "Data Architecture"
+      ]
+    },
+    "tools": [
+      "Collibra",
+      "SQL",
+      "Power BI"
+    ],
+    "prerequisites": [
+      "Basic data concepts"
+    ],
+    "certifications": [
+      "DAMA Training",
+      "Data Governance Courses"
+    ],
+    "learning_path": [
+      "SQL",
+      "Data Quality",
+      "Metadata",
+      "Data Governance"
+    ],
+    "projects": [
+      "Data Catalog",
+      "Quality Framework"
+    ]
+  },
+  {
+    "id": "data_architect",
+    "name": "Data Architect",
+    "category": "Data & Infrastructure",
+    "description": "Designs data platforms, models, and integration strategies.",
+    "skills": {
+      "Beginner": [
+        "SQL",
+        "Data Modeling",
+        "Programming"
+      ],
+      "Intermediate": [
+        "Warehousing",
+        "ETL",
+        "Cloud Data"
+      ],
+      "Advanced": [
+        "Lakehouse",
+        "Distributed Systems",
+        "Data Governance"
+      ]
+    },
+    "tools": [
+      "Snowflake",
+      "BigQuery",
+      "dbt"
+    ],
+    "prerequisites": [
+      "Data engineering fundamentals"
+    ],
+    "certifications": [
+      "Google Cloud Data Engineer",
+      "Snowflake Certification"
+    ],
+    "learning_path": [
+      "SQL",
+      "Data Modeling",
+      "ETL",
+      "Cloud Data"
+    ],
+    "projects": [
+      "Lakehouse Architecture",
+      "Enterprise Data Model"
+    ]
+  },
+  {
+    "id": "analytics_engineer",
+    "name": "Analytics Engineer",
+    "category": "Data & Analytics",
+    "description": "Transforms raw data into trusted analytical datasets and models.",
+    "skills": {
+      "Beginner": [
+        "SQL",
+        "Git",
+        "Data Basics"
+      ],
+      "Intermediate": [
+        "dbt",
+        "Data Modeling",
+        "Testing"
+      ],
+      "Advanced": [
+        "Semantic Layers",
+        "Data Quality",
+        "Warehouse Optimization"
+      ]
+    },
+    "tools": [
+      "dbt",
+      "Snowflake",
+      "BigQuery"
+    ],
+    "prerequisites": [
+      "SQL fundamentals"
+    ],
+    "certifications": [
+      "dbt Fundamentals",
+      "Snowflake Training"
+    ],
+    "learning_path": [
+      "SQL",
+      "dbt",
+      "Data Modeling",
+      "Testing"
+    ],
+    "projects": [
+      "Analytics Warehouse",
+      "Metrics Layer"
+    ]
+  },
+  {
+    "id": "data_quality",
+    "name": "Data Quality Analyst",
+    "category": "Data & Analytics",
+    "description": "Monitors data accuracy, completeness, consistency, and reliability.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "SQL",
+        "Attention to Detail"
+      ],
+      "Intermediate": [
+        "Data Profiling",
+        "Validation",
+        "ETL Basics"
+      ],
+      "Advanced": [
+        "Data Observability",
+        "Automation",
+        "Governance"
+      ]
+    },
+    "tools": [
+      "Great Expectations",
+      "SQL",
+      "Python"
+    ],
+    "prerequisites": [
+      "Basic SQL"
+    ],
+    "certifications": [
+      "Data Quality Courses",
+      "Google Data Analytics"
+    ],
+    "learning_path": [
+      "SQL",
+      "Python",
+      "Data Quality",
+      "ETL"
+    ],
+    "projects": [
+      "Quality Monitoring",
+      "Data Validation Pipeline"
+    ]
+  },
+  {
+    "id": "prompt_designer",
+    "name": "AI Conversation Designer",
+    "category": "Artificial Intelligence",
+    "description": "Designs human-friendly conversations for AI assistants and chat interfaces.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "UX Basics",
+        "AI Basics"
+      ],
+      "Intermediate": [
+        "Conversation Design",
+        "Prompting",
+        "User Research"
+      ],
+      "Advanced": [
+        "Evaluation",
+        "Guardrails",
+        "Agent Design"
+      ]
+    },
+    "tools": [
+      "Figma",
+      "Python",
+      "LLM APIs"
+    ],
+    "prerequisites": [
+      "Strong writing skills"
+    ],
+    "certifications": [
+      "Conversation Design Courses",
+      "DeepLearning.AI"
+    ],
+    "learning_path": [
+      "Writing",
+      "Prompting",
+      "UX Research",
+      "LLMs"
+    ],
+    "projects": [
+      "Support Chatbot",
+      "AI Onboarding Flow"
+    ]
+  },
+  {
+    "id": "ai_ethics",
+    "name": "Responsible AI Specialist",
+    "category": "Artificial Intelligence",
+    "description": "Helps organizations evaluate fairness, safety, transparency, and responsible AI use.",
+    "skills": {
+      "Beginner": [
+        "AI Basics",
+        "Research",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Model Evaluation",
+        "Bias Analysis",
+        "Documentation"
+      ],
+      "Advanced": [
+        "AI Governance",
+        "Risk Assessment",
+        "Policy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Jupyter",
+      "Model Cards"
+    ],
+    "prerequisites": [
+      "AI fundamentals"
+    ],
+    "certifications": [
+      "Responsible AI Courses",
+      "Google Responsible AI"
+    ],
+    "learning_path": [
+      "Python",
+      "Model Evaluation",
+      "AI Governance",
+      "Risk Assessment"
+    ],
+    "projects": [
+      "AI Risk Assessment",
+      "Model Card"
+    ]
+  },
+  {
+    "id": "ai_safety",
+    "name": "AI Safety Engineer",
+    "category": "Artificial Intelligence",
+    "description": "Develops methods to evaluate and reduce risks in advanced AI systems.",
+    "skills": {
+      "Beginner": [
+        "Python",
+        "AI Basics",
+        "Statistics"
+      ],
+      "Intermediate": [
+        "Evaluation",
+        "Red Teaming",
+        "Safety Testing"
+      ],
+      "Advanced": [
+        "Alignment",
+        "Robustness",
+        "AI Security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Jupyter",
+      "LLM Evaluation Tools"
+    ],
+    "prerequisites": [
+      "ML fundamentals"
+    ],
+    "certifications": [
+      "AI Safety Courses",
+      "DeepLearning.AI"
+    ],
+    "learning_path": [
+      "Python",
+      "Evaluation",
+      "Red Teaming",
+      "AI Safety"
+    ],
+    "projects": [
+      "AI Safety Benchmark",
+      "Prompt Attack Evaluation"
+    ]
+  },
+  {
+    "id": "data_privacy",
+    "name": "Data Privacy Analyst",
+    "category": "Cybersecurity",
+    "description": "Helps organizations protect personal data and meet privacy requirements.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Data Basics",
+        "Research"
+      ],
+      "Intermediate": [
+        "Privacy Controls",
+        "Data Mapping",
+        "Risk Analysis"
+      ],
+      "Advanced": [
+        "Privacy Engineering",
+        "Governance",
+        "Compliance"
+      ]
+    },
+    "tools": [
+      "Excel",
+      "OneTrust",
+      "SQL"
+    ],
+    "prerequisites": [
+      "Basic data governance"
+    ],
+    "certifications": [
+      "IAPP Foundations",
+      "Privacy Fundamentals"
+    ],
+    "learning_path": [
+      "Privacy",
+      "Risk Analysis",
+      "Data Governance",
+      "SQL"
+    ],
+    "projects": [
+      "Data Inventory",
+      "Privacy Impact Assessment"
+    ]
+  },
+  {
+    "id": "compliance",
+    "name": "Technology Compliance Analyst",
+    "category": "Cybersecurity",
+    "description": "Reviews technology controls against security and regulatory requirements.",
+    "skills": {
+      "Beginner": [
+        "Documentation",
+        "Security Basics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Control Testing",
+        "Risk Assessment",
+        "Audit"
+      ],
+      "Advanced": [
+        "Compliance Programs",
+        "GRC",
+        "Policy"
+      ]
+    },
+    "tools": [
+      "ServiceNow",
+      "Excel",
+      "Jira"
+    ],
+    "prerequisites": [
+      "Basic IT knowledge"
+    ],
+    "certifications": [
+      "ITIL Foundation",
+      "Security+ Essentials"
+    ],
+    "learning_path": [
+      "Security",
+      "Audit",
+      "Risk",
+      "GRC"
+    ],
+    "projects": [
+      "Control Assessment",
+      "Compliance Dashboard"
+    ]
+  },
+  {
+    "id": "product_analyst",
+    "name": "Product Analyst",
+    "category": "Product & Analytics",
+    "description": "Uses product data to understand behavior and improve product decisions.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "SQL",
+        "Product Analytics",
+        "Experimentation"
+      ],
+      "Advanced": [
+        "Funnel Analysis",
+        "Cohort Analysis",
+        "Causal Inference"
+      ]
+    },
+    "tools": [
+      "SQL",
+      "Amplitude",
+      "Mixpanel"
+    ],
+    "prerequisites": [
+      "Basic statistics"
+    ],
+    "certifications": [
+      "Google Data Analytics",
+      "Product Analytics Courses"
+    ],
+    "learning_path": [
+      "SQL",
+      "Statistics",
+      "Product Analytics",
+      "Experimentation"
+    ],
+    "projects": [
+      "User Funnel",
+      "Feature Analysis"
+    ]
+  },
+  {
+    "id": "growth",
+    "name": "Growth Analyst",
+    "category": "Marketing & Analytics",
+    "description": "Finds data-driven opportunities to increase acquisition, activation, and retention.",
+    "skills": {
+      "Beginner": [
+        "Excel",
+        "Statistics",
+        "Marketing Basics"
+      ],
+      "Intermediate": [
+        "SQL",
+        "A/B Testing",
+        "Analytics"
+      ],
+      "Advanced": [
+        "Growth Modeling",
+        "Experiment Design",
+        "Attribution"
+      ]
+    },
+    "tools": [
+      "GA4",
+      "Mixpanel",
+      "SQL"
+    ],
+    "prerequisites": [
+      "Basic analytics"
+    ],
+    "certifications": [
+      "Google Analytics",
+      "Growth Marketing Courses"
+    ],
+    "learning_path": [
+      "SQL",
+      "A/B Testing",
+      "Analytics",
+      "Marketing"
+    ],
+    "projects": [
+      "Growth Experiment",
+      "Retention Dashboard"
+    ]
+  },
+  {
+    "id": "community",
+    "name": "Community Manager",
+    "category": "Marketing",
+    "description": "Builds and nurtures communities around products, organizations, or brands.",
+    "skills": {
+      "Beginner": [
+        "Communication",
+        "Writing",
+        "Social Media"
+      ],
+      "Intermediate": [
+        "Community Strategy",
+        "Events",
+        "Analytics"
+      ],
+      "Advanced": [
+        "Community Growth",
+        "Partnerships",
+        "Program Management"
+      ]
+    },
+    "tools": [
+      "Discord",
+      "Notion",
+      "Slack"
+    ],
+    "prerequisites": [
+      "Strong communication"
+    ],
+    "certifications": [
+      "Community Management Courses",
+      "HubSpot Community"
+    ],
+    "learning_path": [
+      "Communication",
+      "Community Strategy",
+      "Analytics",
+      "Events"
+    ],
+    "projects": [
+      "Developer Community",
+      "Community Event Plan"
+    ]
+  },
+  {
+    "id": "social_media",
+    "name": "Social Media Manager",
+    "category": "Marketing",
+    "description": "Plans, publishes, and measures social content across digital channels.",
+    "skills": {
+      "Beginner": [
+        "Writing",
+        "Communication",
+        "Social Media"
+      ],
+      "Intermediate": [
+        "Content Planning",
+        "Analytics",
+        "Campaigns"
+      ],
+      "Advanced": [
+        "Social Strategy",
+        "Influencer Marketing",
+        "Paid Media"
+      ]
+    },
+    "tools": [
+      "Canva",
+      "Meta Business Suite",
+      "GA4"
+    ],
+    "prerequisites": [
+      "Basic marketing knowledge"
+    ],
+    "certifications": [
+      "Meta Blueprint",
+      "HubSpot Social Media"
+    ],
+    "learning_path": [
+      "Writing",
+      "Social Media",
+      "Analytics",
+      "Content Planning"
+    ],
+    "projects": [
+      "Social Campaign",
+      "Content Calendar"
+    ]
+  },
+  {
+    "id": "video_editor",
+    "name": "Video Editor",
+    "category": "Creative Media",
+    "description": "Edits video content for educational, promotional, and social media use.",
+    "skills": {
+      "Beginner": [
+        "Storytelling",
+        "Video Basics",
+        "Communication"
+      ],
+      "Intermediate": [
+        "Premiere Pro",
+        "Audio Editing",
+        "Color Correction"
+      ],
+      "Advanced": [
+        "Motion Graphics",
+        "Advanced Color",
+        "Post Production"
+      ]
+    },
+    "tools": [
+      "Premiere Pro",
+      "After Effects",
+      "DaVinci Resolve"
+    ],
+    "prerequisites": [
+      "Basic video editing"
+    ],
+    "certifications": [
+      "Adobe Video Training",
+      "DaVinci Resolve Training"
+    ],
+    "learning_path": [
+      "Video Editing",
+      "Audio",
+      "Color Correction",
+      "Storytelling"
+    ],
+    "projects": [
+      "YouTube Video",
+      "Product Advertisement"
+    ]
+  },
+  {
+    "id": "technical_artist",
+    "name": "Technical Artist",
+    "category": "Game Development",
+    "description": "Bridges art and engineering to optimize real-time visual experiences.",
+    "skills": {
+      "Beginner": [
+        "3D Basics",
+        "Programming Basics",
+        "Design"
+      ],
+      "Intermediate": [
+        "Shaders",
+        "Unity",
+        "Blender"
+      ],
+      "Advanced": [
+        "Rendering",
+        "Graphics Optimization",
+        "Tools Programming"
+      ]
+    },
+    "tools": [
+      "Unity",
+      "Blender",
+      "HLSL"
+    ],
+    "prerequisites": [
+      "3D and programming basics"
+    ],
+    "certifications": [
+      "Unity Learn",
+      "Unreal Engine Learning"
+    ],
+    "learning_path": [
+      "Unity",
+      "Blender",
+      "Shaders",
+      "Optimization"
+    ],
+    "projects": [
+      "Real-Time Environment",
+      "Shader Demo"
+    ]
+  },
+  {
+    "id": "graphics",
+    "name": "Graphics Programmer",
+    "category": "Game Development",
+    "description": "Develops rendering, visual effects, and graphics systems for interactive applications.",
+    "skills": {
+      "Beginner": [
+        "C++",
+        "Math",
+        "Programming"
+      ],
+      "Intermediate": [
+        "OpenGL",
+        "Shaders",
+        "Linear Algebra"
+      ],
+      "Advanced": [
+        "Rendering Pipelines",
+        "GPU Programming",
+        "Optimization"
+      ]
+    },
+    "tools": [
+      "C++",
+      "OpenGL",
+      "RenderDoc"
+    ],
+    "prerequisites": [
+      "Strong programming and math"
+    ],
+    "certifications": [
+      "OpenGL Courses",
+      "Graphics Programming Resources"
+    ],
+    "learning_path": [
+      "C++",
+      "OpenGL",
+      "Shaders",
+      "Linear Algebra"
+    ],
+    "projects": [
+      "3D Renderer",
+      "Particle System"
+    ]
+  }
+]

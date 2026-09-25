@@ -1,0 +1,2159 @@
+[
+  {
+    "title": "Student Performance Prediction",
+    "career": "AI/ML Engineer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "Jupyter"
+    ],
+    "category": "Predictive Analytics",
+    "description": "Predict student outcomes from study and attendance data.",
+    "outcomes": [
+      "data preparation",
+      "regression",
+      "model evaluation"
+    ]
+  },
+  {
+    "title": "Image Classification",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "TensorFlow"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "CNN"
+    ],
+    "category": "Computer Vision",
+    "description": "Classify images using a convolutional neural network.",
+    "outcomes": [
+      "neural networks",
+      "image pipelines"
+    ]
+  },
+  {
+    "title": "Personal Portfolio Website",
+    "career": "Full Stack Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "category": "Frontend",
+    "description": "Create a responsive portfolio to showcase your work.",
+    "outcomes": [
+      "responsive layout",
+      "semantic HTML"
+    ]
+  },
+  {
+    "title": "Task Manager API",
+    "career": "Full Stack Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Databases",
+      "Authentication"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "category": "Backend",
+    "description": "Build a secured API for tasks and users.",
+    "outcomes": [
+      "API design",
+      "authentication",
+      "database modelling"
+    ]
+  },
+  {
+    "title": "Sales Insights Dashboard",
+    "career": "Data Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "Excel",
+      "SQL"
+    ],
+    "category": "Analytics",
+    "description": "Analyze sales trends with an interactive dashboard.",
+    "outcomes": [
+      "queries",
+      "dashboard storytelling"
+    ]
+  },
+  {
+    "title": "House Price Predictor",
+    "career": "AI/ML Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Regression"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "Jupyter"
+    ],
+    "category": "Predictive Analytics",
+    "description": "Build a model that estimates house prices from property features.",
+    "outcomes": [
+      "feature engineering",
+      "regression",
+      "model evaluation"
+    ]
+  },
+  {
+    "title": "Customer Churn Prediction",
+    "career": "AI/ML Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "Pandas"
+    ],
+    "category": "Predictive Analytics",
+    "description": "Predict which customers are likely to leave a service.",
+    "outcomes": [
+      "classification",
+      "feature analysis",
+      "model metrics"
+    ]
+  },
+  {
+    "title": "Spam Email Detector",
+    "career": "AI/ML Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "NLP",
+      "Machine Learning"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "NLTK"
+    ],
+    "category": "NLP",
+    "description": "Detect spam messages using text classification.",
+    "outcomes": [
+      "text preprocessing",
+      "classification",
+      "precision and recall"
+    ]
+  },
+  {
+    "title": "Handwritten Digit Recognition",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "CNN"
+    ],
+    "category": "Computer Vision",
+    "description": "Recognize handwritten digits with a neural network.",
+    "outcomes": [
+      "CNN training",
+      "image preprocessing",
+      "accuracy analysis"
+    ]
+  },
+  {
+    "title": "Sentiment Analysis App",
+    "career": "AI/ML Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "NLP",
+      "Machine Learning"
+    ],
+    "technologies": [
+      "Python",
+      "NLTK",
+      "scikit-learn"
+    ],
+    "category": "NLP",
+    "description": "Classify reviews as positive, neutral, or negative.",
+    "outcomes": [
+      "text cleaning",
+      "sentiment classification",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Movie Recommendation Engine",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Processing"
+    ],
+    "technologies": [
+      "Pandas",
+      "scikit-learn",
+      "NumPy"
+    ],
+    "category": "Recommendation Systems",
+    "description": "Recommend movies based on user ratings and similarity.",
+    "outcomes": [
+      "similarity methods",
+      "recommendations",
+      "data preparation"
+    ]
+  },
+  {
+    "title": "Fraud Detection Model",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "Pandas"
+    ],
+    "category": "Anomaly Detection",
+    "description": "Identify suspicious transactions from historical data.",
+    "outcomes": [
+      "imbalanced data",
+      "anomaly detection",
+      "model validation"
+    ]
+  },
+  {
+    "title": "Plant Disease Detector",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "CNN"
+    ],
+    "category": "Computer Vision",
+    "description": "Detect common plant diseases from leaf images.",
+    "outcomes": [
+      "image augmentation",
+      "CNN",
+      "classification"
+    ]
+  },
+  {
+    "title": "Face Mask Detection",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "OpenCV"
+    ],
+    "category": "Computer Vision",
+    "description": "Classify images according to whether a face mask is present.",
+    "outcomes": [
+      "image preprocessing",
+      "CNN",
+      "computer vision"
+    ]
+  },
+  {
+    "title": "Sales Forecasting Model",
+    "career": "AI/ML Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Time Series",
+      "Statistics"
+    ],
+    "technologies": [
+      "Pandas",
+      "scikit-learn",
+      "Matplotlib"
+    ],
+    "category": "Forecasting",
+    "description": "Forecast future sales from historical business data.",
+    "outcomes": [
+      "time-series features",
+      "forecasting",
+      "error analysis"
+    ]
+  },
+  {
+    "title": "Responsive Landing Page",
+    "career": "Frontend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "category": "Frontend",
+    "description": "Build a modern responsive landing page for a product.",
+    "outcomes": [
+      "responsive design",
+      "semantic markup",
+      "browser styling"
+    ]
+  },
+  {
+    "title": "Weather Dashboard",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "JavaScript",
+      "REST APIs",
+      "CSS"
+    ],
+    "technologies": [
+      "JavaScript",
+      "Fetch API",
+      "CSS"
+    ],
+    "category": "Frontend",
+    "description": "Create a weather dashboard using a public weather API.",
+    "outcomes": [
+      "API integration",
+      "DOM manipulation",
+      "responsive UI"
+    ]
+  },
+  {
+    "title": "Expense Tracker UI",
+    "career": "Frontend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "JavaScript",
+      "LocalStorage"
+    ],
+    "category": "Frontend",
+    "description": "Build a browser-based interface for recording personal expenses.",
+    "outcomes": [
+      "forms",
+      "state handling",
+      "local storage"
+    ]
+  },
+  {
+    "title": "Recipe Finder",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "JavaScript",
+      "REST APIs",
+      "UI Design"
+    ],
+    "technologies": [
+      "JavaScript",
+      "Fetch API",
+      "CSS"
+    ],
+    "category": "Frontend",
+    "description": "Create a recipe search interface powered by an external API.",
+    "outcomes": [
+      "API requests",
+      "search UI",
+      "dynamic rendering"
+    ]
+  },
+  {
+    "title": "Interactive Quiz App",
+    "career": "Frontend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "category": "Frontend",
+    "description": "Build an interactive quiz with scoring and feedback.",
+    "outcomes": [
+      "event handling",
+      "application state",
+      "user feedback"
+    ]
+  },
+  {
+    "title": "Kanban Board",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "UI Design"
+    ],
+    "technologies": [
+      "JavaScript",
+      "HTML5 Drag and Drop"
+    ],
+    "category": "Frontend",
+    "description": "Create a drag-and-drop board for managing tasks.",
+    "outcomes": [
+      "drag and drop",
+      "state management",
+      "UI organization"
+    ]
+  },
+  {
+    "title": "E-Commerce Product Page",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "category": "Frontend",
+    "description": "Design a product page with filtering and cart interactions.",
+    "outcomes": [
+      "component thinking",
+      "interactive UI",
+      "responsive layout"
+    ]
+  },
+  {
+    "title": "Markdown Previewer",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "technologies": [
+      "JavaScript",
+      "Marked"
+    ],
+    "category": "Frontend",
+    "description": "Build an editor that renders Markdown as formatted HTML.",
+    "outcomes": [
+      "text processing",
+      "live preview",
+      "frontend state"
+    ]
+  },
+  {
+    "title": "Accessibility Audit Demo",
+    "career": "Frontend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Accessibility"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Lighthouse"
+    ],
+    "category": "Web Accessibility",
+    "description": "Create a page and improve it using accessibility checks.",
+    "outcomes": [
+      "semantic HTML",
+      "keyboard navigation",
+      "accessibility testing"
+    ]
+  },
+  {
+    "title": "Event Registration Page",
+    "career": "Frontend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "category": "Frontend",
+    "description": "Create a responsive event registration experience.",
+    "outcomes": [
+      "form validation",
+      "responsive layout",
+      "user experience"
+    ]
+  },
+  {
+    "title": "Inventory Management API",
+    "career": "Backend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Databases"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "category": "Backend",
+    "description": "Build an API for products, stock, and inventory movements.",
+    "outcomes": [
+      "REST design",
+      "SQL modelling",
+      "validation"
+    ]
+  },
+  {
+    "title": "Authentication Service",
+    "career": "Backend Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Node.js",
+      "Authentication",
+      "Databases"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "JWT",
+      "PostgreSQL"
+    ],
+    "category": "Backend",
+    "description": "Develop a secure registration and login service.",
+    "outcomes": [
+      "password security",
+      "JWT authentication",
+      "authorization"
+    ]
+  },
+  {
+    "title": "Blog REST API",
+    "career": "Backend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Databases"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "category": "Backend",
+    "description": "Create an API for posts, comments, and users.",
+    "outcomes": [
+      "CRUD APIs",
+      "database modelling",
+      "HTTP methods"
+    ]
+  },
+  {
+    "title": "URL Shortener",
+    "career": "Backend Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Databases"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "category": "Backend",
+    "description": "Build a service that converts long URLs into short links.",
+    "outcomes": [
+      "routing",
+      "database persistence",
+      "API design"
+    ]
+  },
+  {
+    "title": "Real-Time Chat Server",
+    "career": "Backend Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Node.js",
+      "WebSockets",
+      "Authentication"
+    ],
+    "technologies": [
+      "Node.js",
+      "Socket.IO",
+      "MongoDB"
+    ],
+    "category": "Backend",
+    "description": "Create a server for real-time private and group messaging.",
+    "outcomes": [
+      "WebSockets",
+      "real-time events",
+      "authentication"
+    ]
+  },
+  {
+    "title": "File Upload Service",
+    "career": "Backend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Cloud Storage"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "AWS S3"
+    ],
+    "category": "Backend",
+    "description": "Build an API that securely accepts and stores user files.",
+    "outcomes": [
+      "multipart uploads",
+      "file validation",
+      "cloud storage"
+    ]
+  },
+  {
+    "title": "Online Bookstore API",
+    "career": "Backend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "REST APIs",
+      "SQL",
+      "Authentication"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "category": "Backend",
+    "description": "Create APIs for books, customers, carts, and orders.",
+    "outcomes": [
+      "relational modelling",
+      "transactions",
+      "API security"
+    ]
+  },
+  {
+    "title": "Notification Service",
+    "career": "Backend Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Message Queues"
+    ],
+    "technologies": [
+      "Node.js",
+      "Redis",
+      "BullMQ"
+    ],
+    "category": "Backend",
+    "description": "Build a background service for processing user notifications.",
+    "outcomes": [
+      "queues",
+      "background jobs",
+      "retry handling"
+    ]
+  },
+  {
+    "title": "Payment Order Simulator",
+    "career": "Backend Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "REST APIs",
+      "Databases",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "category": "Backend",
+    "description": "Simulate order creation and payment status workflows.",
+    "outcomes": [
+      "transactions",
+      "webhooks concept",
+      "error handling"
+    ]
+  },
+  {
+    "title": "API Rate Limiter",
+    "career": "Backend Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "Caching"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "category": "Backend",
+    "description": "Implement request limits to protect an API from abuse.",
+    "outcomes": [
+      "middleware",
+      "rate limiting",
+      "distributed caching"
+    ]
+  },
+  {
+    "title": "Customer Segmentation Analysis",
+    "career": "Data Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Statistics"
+    ],
+    "technologies": [
+      "Pandas",
+      "Matplotlib",
+      "Jupyter"
+    ],
+    "category": "Analytics",
+    "description": "Group customers into meaningful segments using purchasing behavior.",
+    "outcomes": [
+      "data cleaning",
+      "segmentation",
+      "visualization"
+    ]
+  },
+  {
+    "title": "Marketing Campaign Dashboard",
+    "career": "Data Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Excel",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "technologies": [
+      "Excel",
+      "Power BI"
+    ],
+    "category": "Analytics",
+    "description": "Create a dashboard comparing campaign performance.",
+    "outcomes": [
+      "KPIs",
+      "dashboard design",
+      "business insights"
+    ]
+  },
+  {
+    "title": "Employee Attrition Analysis",
+    "career": "Data Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "category": "Business Analytics",
+    "description": "Analyze employee attrition patterns and possible drivers.",
+    "outcomes": [
+      "SQL analysis",
+      "KPI design",
+      "insight communication"
+    ]
+  },
+  {
+    "title": "Retail Inventory Report",
+    "career": "Data Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Data Analysis"
+    ],
+    "technologies": [
+      "Excel",
+      "SQL"
+    ],
+    "category": "Business Analytics",
+    "description": "Analyze stock levels, turnover, and inventory movement.",
+    "outcomes": [
+      "pivot tables",
+      "SQL queries",
+      "reporting"
+    ]
+  },
+  {
+    "title": "Website Traffic Analysis",
+    "career": "Data Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Excel",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "Excel",
+      "Google Analytics"
+    ],
+    "category": "Web Analytics",
+    "description": "Analyze website traffic and user engagement patterns.",
+    "outcomes": [
+      "traffic metrics",
+      "trend analysis",
+      "report creation"
+    ]
+  },
+  {
+    "title": "A/B Test Analysis",
+    "career": "Data Analyst",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Statistics",
+      "SQL"
+    ],
+    "technologies": [
+      "Python",
+      "Pandas",
+      "SciPy"
+    ],
+    "category": "Experimentation",
+    "description": "Evaluate whether a product change improves conversion.",
+    "outcomes": [
+      "hypothesis testing",
+      "conversion analysis",
+      "statistical interpretation"
+    ]
+  },
+  {
+    "title": "Customer Lifetime Value Analysis",
+    "career": "Data Analyst",
+    "difficulty": "Advanced",
+    "skills": [
+      "SQL",
+      "Python",
+      "Statistics"
+    ],
+    "technologies": [
+      "SQL",
+      "Pandas",
+      "Jupyter"
+    ],
+    "category": "Analytics",
+    "description": "Estimate customer value using transaction history.",
+    "outcomes": [
+      "cohort analysis",
+      "metrics",
+      "business modelling"
+    ]
+  },
+  {
+    "title": "Financial KPI Dashboard",
+    "career": "Data Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Excel",
+      "Power BI",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "Power BI",
+      "Excel"
+    ],
+    "category": "Finance Analytics",
+    "description": "Build a dashboard for revenue, costs, and profitability.",
+    "outcomes": [
+      "financial KPIs",
+      "dashboarding",
+      "data modelling"
+    ]
+  },
+  {
+    "title": "Logistics Performance Report",
+    "career": "Data Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "SQL",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "technologies": [
+      "SQL",
+      "Power BI"
+    ],
+    "category": "Operations Analytics",
+    "description": "Analyze delivery times, delays, and operational performance.",
+    "outcomes": [
+      "SQL joins",
+      "operational KPIs",
+      "visual reporting"
+    ]
+  },
+  {
+    "title": "Survey Data Insights",
+    "career": "Data Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Excel",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "Excel",
+      "Power BI"
+    ],
+    "category": "Analytics",
+    "description": "Analyze survey responses and summarize key findings.",
+    "outcomes": [
+      "data cleaning",
+      "descriptive statistics",
+      "visualization"
+    ]
+  },
+  {
+    "title": "Sales Data Warehouse",
+    "career": "Data Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "SQL",
+      "ETL",
+      "Data Modelling"
+    ],
+    "technologies": [
+      "PostgreSQL",
+      "Python",
+      "Airflow"
+    ],
+    "category": "Data Engineering",
+    "description": "Build a small warehouse pipeline for sales reporting.",
+    "outcomes": [
+      "ETL design",
+      "dimensional modelling",
+      "orchestration"
+    ]
+  },
+  {
+    "title": "CSV ETL Pipeline",
+    "career": "Data Engineer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Python",
+      "ETL",
+      "SQL"
+    ],
+    "technologies": [
+      "Python",
+      "Pandas",
+      "PostgreSQL"
+    ],
+    "category": "Data Engineering",
+    "description": "Extract CSV data, transform records, and load them into a database.",
+    "outcomes": [
+      "ETL workflow",
+      "data validation",
+      "SQL loading"
+    ]
+  },
+  {
+    "title": "Real-Time Event Pipeline",
+    "career": "Data Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Streaming",
+      "Data Engineering"
+    ],
+    "technologies": [
+      "Kafka",
+      "Python",
+      "PostgreSQL"
+    ],
+    "category": "Data Engineering",
+    "description": "Process streaming events and store useful aggregates.",
+    "outcomes": [
+      "event streaming",
+      "consumer design",
+      "aggregation"
+    ]
+  },
+  {
+    "title": "Data Quality Monitor",
+    "career": "Data Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Validation"
+    ],
+    "technologies": [
+      "Python",
+      "Great Expectations",
+      "PostgreSQL"
+    ],
+    "category": "Data Quality",
+    "description": "Detect missing, invalid, and inconsistent records automatically.",
+    "outcomes": [
+      "data checks",
+      "validation rules",
+      "quality reporting"
+    ]
+  },
+  {
+    "title": "Weather Data Pipeline",
+    "career": "Data Engineer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Python",
+      "APIs",
+      "SQL"
+    ],
+    "technologies": [
+      "Python",
+      "Requests",
+      "PostgreSQL"
+    ],
+    "category": "Data Engineering",
+    "description": "Collect weather data periodically and store it for analysis.",
+    "outcomes": [
+      "API ingestion",
+      "scheduling",
+      "database storage"
+    ]
+  },
+  {
+    "title": "Cloud Data Lake Prototype",
+    "career": "Data Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Cloud Storage",
+      "ETL"
+    ],
+    "technologies": [
+      "AWS S3",
+      "Python",
+      "Parquet"
+    ],
+    "category": "Cloud Data",
+    "description": "Create a simple cloud data lake for structured datasets.",
+    "outcomes": [
+      "data partitioning",
+      "object storage",
+      "file formats"
+    ]
+  },
+  {
+    "title": "Clickstream Processing",
+    "career": "Data Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "SQL",
+      "Streaming"
+    ],
+    "technologies": [
+      "Kafka",
+      "Python",
+      "PostgreSQL"
+    ],
+    "category": "Data Engineering",
+    "description": "Process simulated website events to generate usage metrics.",
+    "outcomes": [
+      "stream processing",
+      "event schemas",
+      "aggregations"
+    ]
+  },
+  {
+    "title": "Data Catalogue Prototype",
+    "career": "Data Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Management"
+    ],
+    "technologies": [
+      "Python",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "category": "Data Management",
+    "description": "Build a searchable catalogue of datasets and metadata.",
+    "outcomes": [
+      "metadata modelling",
+      "search",
+      "API development"
+    ]
+  },
+  {
+    "title": "Database Migration Tool",
+    "career": "Data Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "SQL",
+      "Databases"
+    ],
+    "technologies": [
+      "Python",
+      "PostgreSQL",
+      "SQLite"
+    ],
+    "category": "Database Engineering",
+    "description": "Create a utility for moving structured data between databases.",
+    "outcomes": [
+      "schema mapping",
+      "data migration",
+      "validation"
+    ]
+  },
+  {
+    "title": "Batch Reporting Pipeline",
+    "career": "Data Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "ETL",
+      "SQL"
+    ],
+    "technologies": [
+      "Python",
+      "Pandas",
+      "PostgreSQL"
+    ],
+    "category": "Data Engineering",
+    "description": "Automate daily processing for a business reporting dataset.",
+    "outcomes": [
+      "batch jobs",
+      "logging",
+      "data transformations"
+    ]
+  },
+  {
+    "title": "Neural Network from Scratch",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Linear Algebra",
+      "Deep Learning"
+    ],
+    "technologies": [
+      "NumPy",
+      "Python"
+    ],
+    "category": "Deep Learning",
+    "description": "Implement a small neural network without a high-level framework.",
+    "outcomes": [
+      "forward propagation",
+      "backpropagation",
+      "optimization"
+    ]
+  },
+  {
+    "title": "Object Detection Demo",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "PyTorch",
+      "OpenCV"
+    ],
+    "category": "Computer Vision",
+    "description": "Detect and localize objects in images.",
+    "outcomes": [
+      "bounding boxes",
+      "model training",
+      "image preprocessing"
+    ]
+  },
+  {
+    "title": "Image Segmentation App",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "PyTorch",
+      "OpenCV"
+    ],
+    "category": "Computer Vision",
+    "description": "Segment objects or regions within images.",
+    "outcomes": [
+      "segmentation",
+      "dataset preparation",
+      "model evaluation"
+    ]
+  },
+  {
+    "title": "Text Summarization Prototype",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "NLP",
+      "Transformers"
+    ],
+    "technologies": [
+      "PyTorch",
+      "Hugging Face"
+    ],
+    "category": "NLP",
+    "description": "Create a prototype that summarizes long text.",
+    "outcomes": [
+      "tokenization",
+      "transformers",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Question Answering System",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "NLP",
+      "Transformers"
+    ],
+    "technologies": [
+      "PyTorch",
+      "Hugging Face"
+    ],
+    "category": "NLP",
+    "description": "Build a model-based system that answers questions from passages.",
+    "outcomes": [
+      "embeddings",
+      "transformers",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Image Caption Generator",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "NLP"
+    ],
+    "technologies": [
+      "PyTorch",
+      "CNN",
+      "Transformer"
+    ],
+    "category": "Multimodal AI",
+    "description": "Generate descriptive captions for images.",
+    "outcomes": [
+      "multimodal modelling",
+      "sequence generation",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Speech Command Classifier",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Audio Processing"
+    ],
+    "technologies": [
+      "PyTorch",
+      "Librosa"
+    ],
+    "category": "Speech AI",
+    "description": "Classify short spoken commands from audio clips.",
+    "outcomes": [
+      "audio features",
+      "classification",
+      "model training"
+    ]
+  },
+  {
+    "title": "Time Series Neural Forecast",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Time Series"
+    ],
+    "technologies": [
+      "PyTorch",
+      "Pandas"
+    ],
+    "category": "Forecasting",
+    "description": "Use a neural model to forecast sequential data.",
+    "outcomes": [
+      "sequence preparation",
+      "forecasting",
+      "error metrics"
+    ]
+  },
+  {
+    "title": "Transfer Learning Classifier",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "Keras"
+    ],
+    "category": "Computer Vision",
+    "description": "Adapt a pretrained image model to a new dataset.",
+    "outcomes": [
+      "transfer learning",
+      "fine-tuning",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Model Explainability Demo",
+    "career": "Deep Learning Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Explainable AI"
+    ],
+    "technologies": [
+      "scikit-learn",
+      "SHAP",
+      "Pandas"
+    ],
+    "category": "Explainable AI",
+    "description": "Explain predictions from a trained machine-learning model.",
+    "outcomes": [
+      "feature attribution",
+      "interpretability",
+      "model analysis"
+    ]
+  },
+  {
+    "title": "Generative AI FAQ Assistant",
+    "career": "Generative AI Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "LLM",
+      "Prompt Engineering"
+    ],
+    "technologies": [
+      "Python",
+      "Hugging Face",
+      "FastAPI"
+    ],
+    "category": "Generative AI",
+    "description": "Create an assistant that answers questions from a curated knowledge base.",
+    "outcomes": [
+      "prompt design",
+      "retrieval",
+      "API integration"
+    ]
+  },
+  {
+    "title": "Document Q&A Assistant",
+    "career": "Generative AI Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "LLM",
+      "Embeddings"
+    ],
+    "technologies": [
+      "Python",
+      "FAISS",
+      "Hugging Face"
+    ],
+    "category": "RAG",
+    "description": "Build a question-answering system over uploaded documents.",
+    "outcomes": [
+      "chunking",
+      "embeddings",
+      "retrieval"
+    ]
+  },
+  {
+    "title": "AI Meeting Notes Generator",
+    "career": "Generative AI Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "NLP",
+      "LLM"
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Hugging Face"
+    ],
+    "category": "Generative AI",
+    "description": "Generate structured meeting summaries from transcripts.",
+    "outcomes": [
+      "text processing",
+      "prompting",
+      "structured output"
+    ]
+  },
+  {
+    "title": "AI Resume Feedback Tool",
+    "career": "Generative AI Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "LLM",
+      "NLP"
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Hugging Face"
+    ],
+    "category": "Generative AI",
+    "description": "Provide structured feedback on resumes against job requirements.",
+    "outcomes": [
+      "information extraction",
+      "prompt engineering",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "Code Explanation Assistant",
+    "career": "Generative AI Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "LLM",
+      "Prompt Engineering"
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Hugging Face"
+    ],
+    "category": "Developer AI",
+    "description": "Build a tool that explains code in simple language.",
+    "outcomes": [
+      "prompt design",
+      "code parsing",
+      "API development"
+    ]
+  },
+  {
+    "title": "RAG Knowledge Base",
+    "career": "Generative AI Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "LLM",
+      "Vector Search"
+    ],
+    "technologies": [
+      "FAISS",
+      "Python",
+      "FastAPI"
+    ],
+    "category": "RAG",
+    "description": "Create a retrieval-augmented assistant for a private knowledge collection.",
+    "outcomes": [
+      "vector search",
+      "retrieval",
+      "grounded responses"
+    ]
+  },
+  {
+    "title": "AI Email Drafting Assistant",
+    "career": "Generative AI Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Python",
+      "NLP",
+      "Prompt Engineering"
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI"
+    ],
+    "category": "Generative AI",
+    "description": "Generate professional email drafts from short instructions.",
+    "outcomes": [
+      "prompting",
+      "text generation",
+      "API design"
+    ]
+  },
+  {
+    "title": "Text-to-Structured-Data Parser",
+    "career": "Generative AI Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "LLM",
+      "Data Processing"
+    ],
+    "technologies": [
+      "Python",
+      "Pydantic",
+      "FastAPI"
+    ],
+    "category": "Generative AI",
+    "description": "Convert natural-language descriptions into validated structured records.",
+    "outcomes": [
+      "schema validation",
+      "structured generation",
+      "error handling"
+    ]
+  },
+  {
+    "title": "AI Study Planner",
+    "career": "Generative AI Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "LLM",
+      "NLP"
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "SQLite"
+    ],
+    "category": "Education AI",
+    "description": "Generate personalized study plans from subjects and available time.",
+    "outcomes": [
+      "prompt design",
+      "data modelling",
+      "API integration"
+    ]
+  },
+  {
+    "title": "Multilingual Chat Assistant",
+    "career": "Generative AI Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Python",
+      "NLP",
+      "LLM"
+    ],
+    "technologies": [
+      "Python",
+      "Hugging Face",
+      "FastAPI"
+    ],
+    "category": "NLP",
+    "description": "Create an assistant capable of handling multiple languages.",
+    "outcomes": [
+      "language handling",
+      "prompting",
+      "evaluation"
+    ]
+  },
+  {
+    "title": "React Task Dashboard",
+    "career": "React Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "technologies": [
+      "React",
+      "Vite",
+      "CSS"
+    ],
+    "category": "Frontend",
+    "description": "Build a component-based task dashboard in React.",
+    "outcomes": [
+      "components",
+      "state management",
+      "responsive UI"
+    ]
+  },
+  {
+    "title": "React Shopping Cart",
+    "career": "React Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "React",
+      "JavaScript",
+      "State Management"
+    ],
+    "technologies": [
+      "React",
+      "Vite",
+      "CSS"
+    ],
+    "category": "Frontend",
+    "description": "Create a product catalogue and shopping cart interface.",
+    "outcomes": [
+      "React state",
+      "component design",
+      "cart logic"
+    ]
+  },
+  {
+    "title": "React Admin Panel",
+    "career": "React Developer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "React",
+      "REST APIs",
+      "Data Visualization"
+    ],
+    "technologies": [
+      "React",
+      "Vite",
+      "Chart.js"
+    ],
+    "category": "Frontend",
+    "description": "Build an admin interface for managing application data.",
+    "outcomes": [
+      "API integration",
+      "charts",
+      "reusable components"
+    ]
+  },
+  {
+    "title": "React Chat Interface",
+    "career": "React Developer",
+    "difficulty": "Advanced",
+    "skills": [
+      "React",
+      "WebSockets",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React",
+      "Socket.IO",
+      "Vite"
+    ],
+    "category": "Real-Time Apps",
+    "description": "Create a real-time chat interface with message status.",
+    "outcomes": [
+      "WebSockets",
+      "state handling",
+      "UI architecture"
+    ]
+  },
+  {
+    "title": "React Expense Tracker",
+    "career": "React Developer",
+    "difficulty": "Beginner",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Data Management"
+    ],
+    "technologies": [
+      "React",
+      "Vite",
+      "LocalStorage"
+    ],
+    "category": "Frontend",
+    "description": "Build an expense tracker with categories and summaries.",
+    "outcomes": [
+      "forms",
+      "state management",
+      "data persistence"
+    ]
+  },
+  {
+    "title": "Dockerized Web Application",
+    "career": "DevOps Engineer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Docker",
+      "Linux",
+      "Web Development"
+    ],
+    "technologies": [
+      "Docker",
+      "Nginx"
+    ],
+    "category": "DevOps",
+    "description": "Package a web application into reproducible containers.",
+    "outcomes": [
+      "Dockerfiles",
+      "container networking",
+      "deployment"
+    ]
+  },
+  {
+    "title": "CI/CD Pipeline Demo",
+    "career": "DevOps Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Git",
+      "CI/CD",
+      "Testing"
+    ],
+    "technologies": [
+      "GitHub Actions",
+      "Docker"
+    ],
+    "category": "DevOps",
+    "description": "Automate testing and deployment for a sample application.",
+    "outcomes": [
+      "pipeline design",
+      "automated tests",
+      "deployment workflows"
+    ]
+  },
+  {
+    "title": "Kubernetes Deployment Lab",
+    "career": "DevOps Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Linux"
+    ],
+    "technologies": [
+      "Kubernetes",
+      "Docker",
+      "kubectl"
+    ],
+    "category": "Cloud Native",
+    "description": "Deploy a multi-service application to Kubernetes.",
+    "outcomes": [
+      "pods",
+      "services",
+      "deployments"
+    ]
+  },
+  {
+    "title": "Infrastructure as Code Demo",
+    "career": "DevOps Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Cloud",
+      "Terraform",
+      "DevOps"
+    ],
+    "technologies": [
+      "Terraform",
+      "AWS"
+    ],
+    "category": "Infrastructure",
+    "description": "Provision cloud infrastructure using declarative configuration.",
+    "outcomes": [
+      "IaC",
+      "resource management",
+      "environment configuration"
+    ]
+  },
+  {
+    "title": "Log Monitoring Stack",
+    "career": "DevOps Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Linux",
+      "Monitoring",
+      "Containers"
+    ],
+    "technologies": [
+      "Docker",
+      "Prometheus",
+      "Grafana"
+    ],
+    "category": "Observability",
+    "description": "Monitor a containerized application and visualize key metrics.",
+    "outcomes": [
+      "metrics",
+      "dashboards",
+      "observability"
+    ]
+  },
+  {
+    "title": "AWS Static Website",
+    "career": "Cloud Engineer",
+    "difficulty": "Beginner",
+    "skills": [
+      "Cloud",
+      "HTML",
+      "Deployment"
+    ],
+    "technologies": [
+      "AWS S3",
+      "CloudFront"
+    ],
+    "category": "Cloud Computing",
+    "description": "Deploy a static website using cloud object storage.",
+    "outcomes": [
+      "cloud storage",
+      "CDN basics",
+      "deployment"
+    ]
+  },
+  {
+    "title": "Serverless API",
+    "career": "Cloud Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Cloud",
+      "REST APIs",
+      "Python"
+    ],
+    "technologies": [
+      "AWS Lambda",
+      "API Gateway",
+      "DynamoDB"
+    ],
+    "category": "Serverless",
+    "description": "Build a small serverless API for managing records.",
+    "outcomes": [
+      "serverless architecture",
+      "API design",
+      "NoSQL"
+    ]
+  },
+  {
+    "title": "Cloud Image Processing",
+    "career": "Cloud Engineer",
+    "difficulty": "Advanced",
+    "skills": [
+      "Cloud",
+      "Python",
+      "Event Processing"
+    ],
+    "technologies": [
+      "AWS S3",
+      "AWS Lambda"
+    ],
+    "category": "Cloud Computing",
+    "description": "Process uploaded images automatically with cloud functions.",
+    "outcomes": [
+      "event triggers",
+      "serverless processing",
+      "object storage"
+    ]
+  },
+  {
+    "title": "Azure Web App Deployment",
+    "career": "Cloud Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Cloud",
+      "Web Development",
+      "Deployment"
+    ],
+    "technologies": [
+      "Microsoft Azure",
+      "Azure App Service"
+    ],
+    "category": "Cloud Computing",
+    "description": "Deploy a web application using a managed cloud service.",
+    "outcomes": [
+      "cloud deployment",
+      "configuration",
+      "scaling basics"
+    ]
+  },
+  {
+    "title": "Cloud Cost Dashboard",
+    "career": "Cloud Engineer",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Cloud",
+      "Data Visualization",
+      "Python"
+    ],
+    "technologies": [
+      "Python",
+      "Power BI"
+    ],
+    "category": "Cloud FinOps",
+    "description": "Create a dashboard for analyzing simulated cloud spending.",
+    "outcomes": [
+      "cost categorization",
+      "KPIs",
+      "visualization"
+    ]
+  },
+  {
+    "title": "Network Traffic Analyzer",
+    "career": "Cybersecurity Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Networking",
+      "Python",
+      "Cybersecurity"
+    ],
+    "technologies": [
+      "Python",
+      "Wireshark"
+    ],
+    "category": "Network Security",
+    "description": "Analyze captured network traffic for unusual patterns.",
+    "outcomes": [
+      "packet analysis",
+      "protocol basics",
+      "security observations"
+    ]
+  },
+  {
+    "title": "Password Security Checker",
+    "career": "Cybersecurity Analyst",
+    "difficulty": "Beginner",
+    "skills": [
+      "Python",
+      "Cybersecurity",
+      "Authentication"
+    ],
+    "technologies": [
+      "Python",
+      "bcrypt"
+    ],
+    "category": "Application Security",
+    "description": "Build a utility that evaluates password strength and hashing practices.",
+    "outcomes": [
+      "secure hashing",
+      "password policies",
+      "security awareness"
+    ]
+  },
+  {
+    "title": "Phishing Awareness Simulator",
+    "career": "Cybersecurity Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Cybersecurity",
+      "HTML",
+      "JavaScript"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "category": "Security Awareness",
+    "description": "Create a safe educational simulator demonstrating phishing indicators.",
+    "outcomes": [
+      "social engineering awareness",
+      "UI design",
+      "security education"
+    ]
+  },
+  {
+    "title": "Secure Login Prototype",
+    "career": "Cybersecurity Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Authentication",
+      "Web Security",
+      "Databases"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "category": "Application Security",
+    "description": "Implement secure login and access-control patterns.",
+    "outcomes": [
+      "authentication",
+      "authorization",
+      "input validation"
+    ]
+  },
+  {
+    "title": "Security Log Analyzer",
+    "career": "Cybersecurity Analyst",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Python",
+      "Cybersecurity",
+      "Data Analysis"
+    ],
+    "technologies": [
+      "Python",
+      "Pandas"
+    ],
+    "category": "Security Analytics",
+    "description": "Analyze application logs to identify suspicious activity.",
+    "outcomes": [
+      "log parsing",
+      "pattern detection",
+      "incident indicators"
+    ]
+  },
+  {
+    "title": "Linux System Monitor",
+    "career": "System Administrator",
+    "difficulty": "Beginner",
+    "skills": [
+      "Linux",
+      "Python",
+      "System Administration"
+    ],
+    "technologies": [
+      "Python",
+      "Linux"
+    ],
+    "category": "System Administration",
+    "description": "Create a utility that reports CPU, memory, disk, and process usage.",
+    "outcomes": [
+      "Linux commands",
+      "system metrics",
+      "automation"
+    ]
+  },
+  {
+    "title": "Automated Backup Script",
+    "career": "System Administrator",
+    "difficulty": "Beginner",
+    "skills": [
+      "Linux",
+      "Shell Scripting",
+      "File Management"
+    ],
+    "technologies": [
+      "Bash",
+      "Linux"
+    ],
+    "category": "System Administration",
+    "description": "Automate backups of selected directories with timestamped archives.",
+    "outcomes": [
+      "shell scripting",
+      "file operations",
+      "scheduling"
+    ]
+  },
+  {
+    "title": "Server Health Dashboard",
+    "career": "System Administrator",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Linux",
+      "Monitoring",
+      "Python"
+    ],
+    "technologies": [
+      "Python",
+      "Flask",
+      "Linux"
+    ],
+    "category": "Monitoring",
+    "description": "Display basic server health metrics through a web dashboard.",
+    "outcomes": [
+      "monitoring",
+      "web endpoints",
+      "system metrics"
+    ]
+  },
+  {
+    "title": "User Management Utility",
+    "career": "System Administrator",
+    "difficulty": "Intermediate",
+    "skills": [
+      "Linux",
+      "Shell Scripting",
+      "Security"
+    ],
+    "technologies": [
+      "Bash",
+      "Linux"
+    ],
+    "category": "System Administration",
+    "description": "Automate common local user and permission management tasks.",
+    "outcomes": [
+      "permissions",
+      "automation",
+      "Linux administration"
+    ]
+  },
+  {
+    "title": "Service Availability Checker",
+    "career": "System Administrator",
+    "difficulty": "Beginner",
+    "skills": [
+      "Networking",
+      "Python",
+      "Monitoring"
+    ],
+    "technologies": [
+      "Python",
+      "Requests"
+    ],
+    "category": "Monitoring",
+    "description": "Check whether configured services are reachable and report failures.",
+    "outcomes": [
+      "HTTP checks",
+      "monitoring logic",
+      "alert reporting"
+    ]
+  }
+]
